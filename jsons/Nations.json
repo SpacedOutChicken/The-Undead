@@ -1,0 +1,37 @@
+[
+	{
+		"name": "The Undead",
+		"leaderName": "The Mindless Horde",
+		"adjective": ["Undead"],
+		"startBias": ["Snow", "Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "'When there's no more room in Hell, the dead will walk the earth.' - George A. Romero",
+		"startIntroPart2": "'Darkness falls across the land, the midnight hour is close at hand, creatures crawl in search of blood to terrorize y'all's neighborhood' - Vincent Price",
+		
+		"declaringWar": "BRAINS!",
+		"attacked": "Grrr!",
+		"defeated": "Urk!",
+		"introduction": "Brains...",
+		
+		"neutralHello": "Brains?",
+		"neutralLetsHearIt": "Talk?",
+		"neutralNo": "Bad...",
+		"neutralYes": "Good...",
+
+		"hateHello": "Grrr...",
+		"hateLetsHearIt": "Talk...",
+		"hateNo": "Hate!",
+		"hateYes": "Okay...",
+		
+		"afterPeace": "Mmmm....good brains.",
+		"tradeRequest": "T-...tr-...trade?",
+
+		"outerColor": [16,16,16],
+		"innerColor": [255,200,200],
+		"uniqueName": "Spreading the Plague",
+		"uniqueText": "Cannot build Settlers or conduct trade missions. 67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment, and 50% chance to earn 25 Gold and capture a defeated Barbarian naval unit. +1 of Happiness, Gold, Production, and Food for every 2 population."
+		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment","50% chance of capturing defeated Barbarian naval units and earning 25 Gold","[+1 Happiness, +1 Gold, +1 Production, +1 Food] per [2] population in all cities"],
+		"cities": ["Ground Zero"]
+	}
+]

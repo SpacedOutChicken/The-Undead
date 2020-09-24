@@ -1,0 +1,35 @@
+[
+	{
+		"name": "Zombie",
+		"uniqueTo": "The Undead",
+		"replaces": "Settler",
+		"unitType": "Melee",
+		"movement": 2,
+		"strength": 8,
+		"cost": 80,
+		"uniques": ["Can build improvements on tiles"],
+		"upgradesTo": "Grim Reaper",
+		"hurryCostModifier": 20
+	},
+	{
+		"name": "Arms Merchant",
+		"uniqueTo": "The Undead",
+		"replaces": "Great Merchant",
+		"unitType": "Civilian",
+		"uniques": ["Can start an [8]-turn golden age", "Can construct [Customs house]", "Great Person - [Gold]", "Unbuildable"],
+		"movement": 2
+	},
+	{
+		"name": "Grim Reaper",
+		"uniqueTo": "The Undead",
+		"replaces": "Modern Armor",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 100,
+		"cost": 425,
+		"requiredTech": "Lasers",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["Sickening Plague","Advanced Infection"]
+	}
+]

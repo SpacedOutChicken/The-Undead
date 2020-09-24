@@ -1,0 +1,10 @@
+[
+	{
+		"name": "Infection",
+		"replaces": "Courthouse",
+		"uniqueTo": "The Undead",
+		"cost": 1,
+		"requiredTech": "Agriculture",
+        "uniques": ["Remove extra unhappiness from annexed cities","All newly-trained [relevant] units in this city receive the [Eating the Dead] promotion"]
+	}
+]

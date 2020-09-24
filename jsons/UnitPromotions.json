@@ -1,0 +1,33 @@
+[
+
+	{
+		"name": "Eating the Dead",
+		"prerequisites": ["null"],
+		"effect": "Heals [25] damage if it kills a unit",
+		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
+	},
+	{
+		"name": "Touch of Death",
+		"effect": "Bonus as Attacker [25]%",
+		"prerequisites": ["Eating the Dead"],
+		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
+	},
+	{
+		"name": "Hard to Kill Twice",
+		"effect": "+25% Combat Bonus when defending",
+		"prerequisites": ["Eating the Dead"],
+		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
+	},
+	{
+		"name": "Advanced Infection",
+		"effect": "All healing effects doubled",
+		"prerequisites": ["Touch of Death","Hard to Kill Twice","Sickening Plague"],
+		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
+	},
+	{
+		"name": "Sickening Plague", 
+		"effect": "-10% combat strength for adjacent enemy units",
+		"prerequisites": ["Eating the Dead"],
+		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
+	}
+]
