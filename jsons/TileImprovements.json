@@ -1,0 +1,15 @@
+[
+    {
+		"name": "Graveyard",
+		"uniqueTo": "The Undead",
+        "food": -2,
+        "gold": -2,
+        "production": -2,
+		"happiness": -2,
+        "turnsToBuild": 4,
+        "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hill","Tundra","Snow","Forest","Jungle"],
+		"uniques": ["Gives a defensive bonus of [-10]%","Can be built outside your borders"],
+		"techRequired": "Construction",
+		"shortcutKey": "G"
+	}
+]

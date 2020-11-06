@@ -5,6 +5,29 @@
 		"uniqueTo": "The Undead",
 		"cost": 1,
 		"requiredTech": "Agriculture",
-        "uniques": ["Remove extra unhappiness from annexed cities","All newly-trained [relevant] units in this city receive the [Eating the Dead] promotion"]
-	}
+        "uniques": ["Remove extra unhappiness from annexed cities","Can only be built in annexed cities"]
+	},
+	{
+        "name": "Lich King's Tomb",
+        "replaces": "Temple",
+        "uniqueTo": "The Undead",
+        "uniques": ["Doubles Gold given to enemy if city is captured","All newly-trained [military] units in this city receive the [Summon the Lich King] promotion"],
+		"culture": 2,
+		"maintenance": 2,
+        "specialistSlots": {"Artist": 1},
+        "requiredBuilding": "Monument",
+        "hurryCostModifier": 25,
+        "requiredTech": "Philosophy"
+	},{
+		"name": "Fossil Fuel",
+		"uniqueTo": "The Undead",
+		"maintenance": 3,
+		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
+		"hurryCostModifier": 25,
+		"uniques": ["Provides [1] [Coal]","Provides [1] [Oil]"],
+		"requiredBuilding": "Stable",
+		"requiredResource": "Horses",
+		"requiredTech": "Industrialization"
+	},
+	
 ]

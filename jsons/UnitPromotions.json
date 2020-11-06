@@ -1,33 +1,34 @@
 [
 
 	{
-		"name": "Eating the Dead",
-		"prerequisites": ["null"],
+		"name": "Eat the Living",
 		"effect": "Heals [25] damage if it kills a unit",
-		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
-	},
-	{
-		"name": "Touch of Death",
-		"effect": "Bonus as Attacker [25]%",
-		"prerequisites": ["Eating the Dead"],
-		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
+		"uniques": ["Bonus vs City 50%"]
 	},
 	{
 		"name": "Hard to Kill Twice",
-		"effect": "+25% Combat Bonus when defending",
-		"prerequisites": ["Eating the Dead"],
+		"effect": "+[15]% Strength when defending",
+		"uniques": ["+10 HP when healing"],
+		"prerequisites": ["Eat the Living"],
 		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
+	},
+	{
+		"name": "Sickening Plague",
+		"effect": "-10% combat strength for adjacent enemy units",
+		"uniques": ["Bonus vs wounded units 15%"],
+		"prerequisites": ["Eat the Living"],
+		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
+	},
+	{
+		"name": "Summon the Lich King",
+		"effect": "[Great General] is earned [50]% faster",
+		"uniques":["[25]% Bonus XP gain"],
 	},
 	{
 		"name": "Advanced Infection",
 		"effect": "All healing effects doubled",
-		"prerequisites": ["Touch of Death","Hard to Kill Twice","Sickening Plague"],
-		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
-	},
-	{
-		"name": "Sickening Plague", 
-		"effect": "-10% combat strength for adjacent enemy units",
-		"prerequisites": ["Eating the Dead"],
+		"uniques": ["Unit will heal every turn, even if it performs an action"],
+		"prerequisites": ["Hard to Kill Twice","Sickening Plague"],
 		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
 	}
 ]

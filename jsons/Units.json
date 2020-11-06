@@ -1,15 +1,25 @@
 [
 	{
-		"name": "Zombie",
+		"name": "Lurcher",
 		"uniqueTo": "The Undead",
 		"replaces": "Settler",
 		"unitType": "Melee",
-		"movement": 2,
-		"strength": 8,
-		"cost": 80,
-		"uniques": ["Can build improvements on tiles"],
-		"upgradesTo": "Grim Reaper",
+		"upgradesTo": "Swordsman",
+		"obsoleteTech": "Metal Casting",
+		"movement": 1,
+		"strength": 13,
+		"cost": 100,
+		"uniques": ["Bonus vs City 33%","Limited Visibility"],
 		"hurryCostModifier": 20
+	},
+	{
+		"name": "Ghost",
+		"uniqueTo": "The Undead",
+		"replaces": "Scout",
+		"unitType": "Civilian",
+		"movement": 3,
+		"cost": 25,
+		"uniques": ["All tiles costs 1","Can pass through impassable tiles","Invisible to others","+1 Visibility Range","May withdraw before melee ([150]%)"]
 	},
 	{
 		"name": "Arms Merchant",
@@ -20,16 +30,27 @@
 		"movement": 2
 	},
 	{
-		"name": "Grim Reaper",
+		"name": "Black Death",
 		"uniqueTo": "The Undead",
-		"replaces": "Modern Armor",
+		"replaces": "Knight",
 		"unitType": "Mounted",
 		"movement": 5,
-		"strength": 100,
-		"cost": 425,
-		"requiredTech": "Lasers",
+		"strength": 16,
+		"cost": 80,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"promotions": ["Sickening Plague","Advanced Infection"]
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Penalty vs City 33%"],
+		"promotions": ["Sickening Plague","Advanced Infection","Siege"],
+		"attackSound": "horse"
+	},
+	{
+		"name": "Lich King",
+		"unitType": "Civilian",
+		"uniqueTo": "The Undead",
+		"replaces": "Great General",
+		"uniques": ["Ignores terrain cost","Can start an [8]-turn golden age","Bonus for units in 2 tile radius 15%","Heal adjacent units for an additional 15 HP per turn","Can construct [Citadel]","Great Person - [War]","Unbuildable"],
+		"movement": 3
 	}
 ]
