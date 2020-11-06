@@ -1,15 +1,29 @@
-Arms Merchant symbol adapted from dollar target by Rockicon from the Noun Project https://thenounproject.com/rockicon/collection/commerce-line/?i=472861
+Icons adapted from the Noun Project:
 
-Zombie symbol adapted from zombie hand by Dairy Free Design from the Noun Project https://thenounproject.com/emmaihall/collection/halloween-glyphs/?i=1968346
+Nation/Eat the Living: [Skull by Vladimir Belochkin](https://thenounproject.com/term/Skull/1030702/)
 
-Infection/Advanced Infection symbol adapted from Biohazard by LUTFI GANI AL ACHMAD from the Noun Project https://thenounproject.com/lutfidiarycoc/collection/medical-and-healthcare-glyph/?i=2850224
+Arms Merchant: [dollar target by Rockicon](https://thenounproject.com/term/dollar-target/472861/)
 
-Eating the Dead symbol adapted from knife fork by icon 54 from the Noun Project https://thenounproject.com/term/knife-fork/1918221/
+Lurcher: [zombie hand by Dairy Free Design](https://thenounproject.com/term/zombie-hand/1968346)
 
-Hard to Kill Twice symbol adapted from Grave by Kmg Design from the Noun Project https://thenounproject.com/kmgdesignid/collection/halloween-solid/?i=2888956
+Infection/Advanced Infection: [Biohazard by LUTFI GANI AL ACHMAD](https://thenounproject.com/term/Biohazard/2850224)
 
-Touch of Death symbol adapted from Death by Adrien Coquet from the Noun Project https://thenounproject.com/term/death/3067013/
+Hard to Kill Twice: [Grave by Kmg Design](https://thenounproject.com/term/Grave/2888956)
 
-Sickening Plague symbol adapted from virus by Nawicon from the Noun Project https://thenounproject.com/nawiconstudio/collection/coronavirus-covid-19/?i=3364091
+Sickening Plague: [virus by Nawicon](https://thenounproject.com/term/virus/3364091)
 
-Grim Reaper symbol adapted from Death by tulpahn from the Noun Project https://thenounproject.com/term/death/2064459/
+Black Death: [Death by tulpahn](https://thenounproject.com/term/death/2064459/)
+
+Ghost: [Ghost by Dmitry Baranovskiy](https://thenounproject.com/term/ghost/7897/)
+
+Lich King/Summon the Lich King: [Crown by Vladimir Belochkin](https://thenounproject.com/term/Crown/891413)
+
+Lich King's Tomb: [Ankara by ProSymbols](https://thenounproject.com/term/ankara/2247204/)
+
+Graveyard: [graveyard by Nikita Kozin](https://thenounproject.com/term/graveyard/573169)
+
+Fossil Fuel: [petroleum by Andrejs Kirma](https://thenounproject.com/term/petroleum/2649102/)
+
+Other art:
+
+Graveyard pixel art by me, dedicated to the public domain, [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
