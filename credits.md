@@ -26,4 +26,4 @@ Fossil Fuel: [petroleum by Andrejs Kirma](https://thenounproject.com/term/petrol
 
 Other art:
 
-Graveyard pixel art by me, dedicated to the public domain, [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+Graveyard pixel art by ekids789789

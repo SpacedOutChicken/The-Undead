@@ -41,9 +41,9 @@ NationIcons/The Undead
   index: -1
 TileSets/FantasyHex/Tiles/Graveyard
   rotate: false
-  xy: 1022, 18
-  size: 32, 32
-  orig: 32, 32
+  xy: 1022, 17
+  size: 32, 33
+  orig: 32, 33
   offset: 0, 0
   index: -1
 UnitIcons/Arms Merchant
@@ -54,6 +54,13 @@ UnitIcons/Arms Merchant
   offset: 0, 0
   index: -1
 UnitIcons/Black Death
+  rotate: false
+  xy: 104, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Grim Reaper
   rotate: false
   xy: 104, 2
   size: 100, 100
@@ -95,23 +102,37 @@ UnitPromotionIcons/Eat the Living
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Hard to Kill Twice
+UnitPromotionIcons/Eating the Dead
   rotate: false
   xy: 1126, 52
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Sickening Plague
+UnitPromotionIcons/Hard to Kill Twice
   rotate: false
   xy: 1178, 52
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Summon the Lich King
+UnitPromotionIcons/Sickening Plague
   rotate: false
   xy: 1230, 52
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Summon the Lich King
+  rotate: false
+  xy: 1282, 52
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Touch of Death
+  rotate: false
+  xy: 1334, 52
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
