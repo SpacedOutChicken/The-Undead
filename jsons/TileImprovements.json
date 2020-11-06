@@ -1,15 +1,15 @@
 [
     {
-		"name": "Graveyard",
-		"uniqueTo": "The Undead",
+	"name": "Graveyard",
+	"uniqueTo": "The Undead",
         "food": -2,
         "gold": -2,
         "production": -2,
-		"happiness": -2,
-        "turnsToBuild": 4,
+	"happiness": -2,
+        "turnsToBuild": 6,
         "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hill","Tundra","Snow","Forest","Jungle"],
-		"uniques": ["Gives a defensive bonus of [-10]%","Can be built outside your borders"],
-		"techRequired": "Construction",
-		"shortcutKey": "G"
+	"uniques": ["Gives a defensive bonus of [-10]%","[+1 Food] once [Civil Service] is discovered","[+1 Production] once [Biology] is discovered","Can be built outside your borders"],
+	"techRequired": "Agriculture",
+	"shortcutKey": "G"
 	}
 ]
