@@ -102,37 +102,23 @@ UnitPromotionIcons/Eat the Living
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Eating the Dead
+UnitPromotionIcons/Hard to Kill Twice
   rotate: false
   xy: 1126, 52
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Hard to Kill Twice
+UnitPromotionIcons/Sickening Plague
   rotate: false
   xy: 1178, 52
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Sickening Plague
-  rotate: false
-  xy: 1230, 52
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
 UnitPromotionIcons/Summon the Lich King
   rotate: false
-  xy: 1282, 52
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Touch of Death
-  rotate: false
-  xy: 1334, 52
+  xy: 1230, 52
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
