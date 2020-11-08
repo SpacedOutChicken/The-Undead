@@ -19,7 +19,7 @@
 		"unitType": "Civilian",
 		"movement": 3,
 		"cost": 25,
-		"uniques": ["All tiles costs 1","Can pass through impassable tiles","Invisible to others","+1 Visibility Range","May withdraw before melee ([150]%)"]
+		"uniques": ["All tiles costs 1","Can pass through impassable tiles","Invisible to others","Can attack submarines","+1 Visibility Range","May withdraw before melee ([150]%)"]
 	},
 	{
 		"name": "Arms Merchant",
@@ -41,8 +41,8 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","Penalty vs City 33%"],
-		"promotions": ["Sickening Plague","Advanced Infection","Siege"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"promotions": ["Sickening Plague","Advanced Infection"],
 		"attackSound": "horse"
 	},
 	{

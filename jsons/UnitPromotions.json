@@ -7,8 +7,7 @@
 	},
 	{
 		"name": "Hard to Kill Twice",
-		"effect": "+[15]% Strength when defending",
-		"uniques": ["+10 HP when healing"],
+		"effect": "+[25]% Strength when defending",
 		"prerequisites": ["Eat the Living"],
 		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
 	},
@@ -21,13 +20,11 @@
 	},
 	{
 		"name": "Summon the Lich King",
-		"effect": "[Great General] is earned [50]% faster",
-		"uniques":["[25]% Bonus XP gain"],
+		"effect": "[Great General] is earned [50]% faster"
 	},
 	{
 		"name": "Advanced Infection",
 		"effect": "All healing effects doubled",
-		"uniques": ["Unit will heal every turn, even if it performs an action"],
 		"prerequisites": ["Hard to Kill Twice","Sickening Plague"],
 		"unitTypes": ["Melee","Mounted","Scout","Siege","Ranged","Armor","WaterMelee","WaterRanged","WaterSubmarine","Fighter","Bomber","WaterAircraftCarrier"]
 	}
