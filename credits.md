@@ -20,6 +20,10 @@ Lich King/Summon the Lich King: [Crown by Vladimir Belochkin](https://thenounpro
 
 Lich King's Tomb: [Ankara by ProSymbols](https://thenounproject.com/term/ankara/2247204/)
 
+Tombstone: [Tombstone by Sneha](https://thenounproject.com/term/tombstone/2915140/)
+
+Grimoire: [spellbook by Komkrit Noenpoempisut](https://thenounproject.com/term/spellbook/3476980/)
+
 Graveyard: [graveyard by Nikita Kozin](https://thenounproject.com/term/graveyard/573169)
 
 Fossil Fuel: [petroleum by Andrejs Kirma](https://thenounproject.com/term/petroleum/2649102/)
