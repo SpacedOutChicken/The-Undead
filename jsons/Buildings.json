@@ -4,6 +4,7 @@
 		"uniqueTo": "The Undead",
 		"isNationalWonder": true,
 		"percentStatBonus": {"science": -100, "culture": -100, "production": -100, "gold": -100, "food": -100},
+		"happiness": -50,
 		"cost": -1,
         "uniques": ["Unbuildable","Remove extra unhappiness from annexed cities","[+1 Gold, +1 Production, +1 Food] per [3] Population in this city","[+1 Happiness] Per [1] Population in this city"]
 	},

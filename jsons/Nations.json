@@ -3,7 +3,7 @@
 		"name": "The Undead",
 		"leaderName": "The Mindless Horde",
 		"adjective": ["Undead"],
-		"startBias": ["Snow", "Tundra"],
+		"startBias": ["Snow", "Desert"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "'When there's no more room in Hell, the dead will walk the earth.' - George A. Romero",
@@ -30,7 +30,8 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "The Great Infectious Horde",
-		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment","50% chance of capturing defeated Barbarian naval units and earning 25 Gold","+30% Strength when fighting City-State units and cities","[-50 Happiness, -50 Food] in all cities","[+53 Happiness, +50 Food] from every [Infection]","[-1 Happiness] from all [Happiness] buildings","Golden Age length increased by [-25]%","[military] units gain the [Eat the Living] promotion","[+3 Food, +2 Production, +2 Gold, +2 Happiness] from every [Graveyard]","+[10]% Strength if within [1] tiles of a [Graveyard]","+[50]% [Science] from every [Curse of Undeath]","+[70]% [Culture] from every [Curse of Undeath]","+[100]% [Production] from every [Curse of Undeath]","+[100]% [Gold] from every [Curse of Undeath]","+[100]% [Food] from every [Curse of Undeath]"],
+		"uniqueText": "Cannot build Settlers; can only gain new cities by conquering existing ones. +30% Strength when fighting City-State units and cities. -50 Food and Happiness in each city unless you build an Infection. Building an Infection provides a Curse of Undeath, which increases Food and Gold and Production and massively increases Happiness, but permanently reduces Culture and Science. Cannot build or use Courthouses; only a Curse of Undeath can remove excess unhappiness from conquered cities. 67% chance to recruit a Barbarian unit from a conquered encampment (50% chance of capturing defeated Barbarian naval units). All military units gain the Eat the Living promotion.",
+		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment","50% chance of capturing defeated Barbarian naval units and earning 25 Gold","+30% Strength when fighting City-State units and cities","[-1 Happiness] per [10] population in all cities","[-50 Happiness, -50 Food] in all cities","[+53 Happiness, +51 Food] from every [Infection]","[+50 Happiness] from every [Curse of Undeath]","[-1 Happiness] from all [Happiness] buildings","Golden Age length increased by [-25]%","[military] units gain the [Eat the Living] promotion","[+3 Food, +2 Production, +2 Gold, +2 Happiness] from every [Graveyard]","+[10]% Strength if within [1] tiles of a [Graveyard]","[+1 Science, +1 Culture] from every [Palace]","+[50]% [Science] from every [Curse of Undeath]","+[70]% [Culture] from every [Curse of Undeath]","+[100]% [Production] from every [Curse of Undeath]","+[100]% [Gold] from every [Curse of Undeath]","+[100]% [Food] from every [Curse of Undeath]"],
 		"cities": ["Ground Zero"]
 	}
 ]

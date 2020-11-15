@@ -3,7 +3,7 @@
 	{
 		"name": "Eat the Living",
 		"effect": "Heals [25] damage if it kills a unit",
-		"uniques": ["Bonus vs City 50%"]
+		"uniques": ["Bonus vs City 50%","Undead"]
 	},
 	{
 		"name": "Hard to Kill Twice",

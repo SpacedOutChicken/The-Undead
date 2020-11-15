@@ -26,6 +26,8 @@ Fossil Fuel: [petroleum by Andrejs Kirma](https://thenounproject.com/term/petrol
 
 Unused Courthouse: [Judge by Krisztian from mokapot.hu](https://thenounproject.com/term/Judge/1076388/)
 
-Other art:
+Pixel art:
 
-Graveyard pixel art by ekids789789
+Graveyard tile improvement by ekids789789
+
+Arms Merchant, Black Death, Ghost, Lich King, and Lurcher units by GeneralWadaling

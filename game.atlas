@@ -55,9 +55,44 @@ NationIcons/The Undead
   index: -1
 TileSets/FantasyHex/Tiles/Graveyard
   rotate: false
-  xy: 1226, 17
+  xy: 1520, 69
   size: 32, 33
   orig: 32, 33
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Arms Merchant
+  rotate: false
+  xy: 1226, 22
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Black Death
+  rotate: false
+  xy: 1486, 74
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Ghost
+  rotate: false
+  xy: 1260, 22
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lich King
+  rotate: false
+  xy: 1554, 71
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Lurcher
+  rotate: false
+  xy: 1294, 22
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Arms Merchant
