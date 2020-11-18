@@ -16,7 +16,7 @@ Black Death: [Death by tulpahn](https://thenounproject.com/term/death/2064459/)
 
 Ghost: [Ghost by Dmitry Baranovskiy](https://thenounproject.com/term/ghost/7897/)
 
-Lich King/Summon the Lich King: [Crown by Vladimir Belochkin](https://thenounproject.com/term/Crown/891413)
+Lich King/Summon the Lich King: [Crown by Vladimir Belochkin](https://thenounproject.com/term/Crown/891413) and [Skull by Vivian Ziereisen](https://thenounproject.com/term/skull/29715/)
 
 Lich King's Tomb: [Ankara by ProSymbols](https://thenounproject.com/term/ankara/2247204/)
 
@@ -26,8 +26,18 @@ Fossil Fuel: [petroleum by Andrejs Kirma](https://thenounproject.com/term/petrol
 
 Unused Courthouse: [Judge by Krisztian from mokapot.hu](https://thenounproject.com/term/Judge/1076388/)
 
+Grimoire: [spellbook by Komkrit Noenpoempisut](https://thenounproject.com/term/spellbook/3476980/)
+
+Memento Mori: [Tombstone by Sneha](https://thenounproject.com/term/tombstone/2915140/)
+
+Abyss: [canyon by iconfield](https://thenounproject.com/term/canyon/3005193/)
+
+Bone Dragon: [dragon by BGBOXXX Design](https://thenounproject.com/term/dragon/1646686/)
+
+Necromancer: [necromancy by HeadsOfBirds](https://thenounproject.com/term/necromancy/1178598/)
+
 Pixel art:
 
-Graveyard tile improvement by ekids789789
+Graveyard and Abyss tile improvements by ekids789789
 
 Arms Merchant, Black Death, Ghost, Lich King, and Lurcher units by GeneralWadaling

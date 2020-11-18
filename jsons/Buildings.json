@@ -15,6 +15,26 @@
 		"cost": -1
 	},
 	{
+		"name": "Grimoire",
+		"uniqueTo":"The Undead",
+		"replaces": "Library",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"providesFreeBuilding": "Curse of Undeath",
+		"uniques": ["[+1 Science] Per [2] Population in this city"],
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Memento Mori",
+		"uniqueTo":"The Undead",
+		"replaces": "Monument",
+		"providesFreeBuilding": "Curse of Undeath",
+		"culture": 2,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"maintenance": 1
+	},
+	{
 		"name": "Unused Courthouse",
 		"uniqueTo": "The Undead",
 		"replaces": "Courthouse",
@@ -31,14 +51,15 @@
 		"maintenance": 2,
         "specialistSlots": {"Artist": 1},
         "requiredBuilding": "Monument",
-        "hurryCostModifier": 25,
+		"hurryCostModifier": 25,
+		"providesFreeBuilding": "Curse of Undeath",
         "requiredTech": "Philosophy"
 	},
 	{
 		"name": "Fossil Fuel",
 		"uniqueTo": "The Undead",
+		"providesFreeBuilding": "Curse of Undeath",
 		"maintenance": 3,
-		"requiredNearbyImprovedResources": ["Horses","Sheep","Cattle"],
 		"hurryCostModifier": 25,
 		"uniques": ["Provides [1] [Coal]","Provides [1] [Oil]"],
 		"requiredBuilding": "Stable",
