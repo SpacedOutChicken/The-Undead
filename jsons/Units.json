@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Lurcher",
+		"name": "Demi-Lich",
 		"uniqueTo": "The Undead",
 		"replaces": "Settler",
-		"unitType": "Melee",
-		"upgradesTo": "Swordsman",
-		"obsoleteTech": "Metal Casting",
-		"movement": 1,
-		"strength": 13,
-		"cost": 100,
-		"uniques": ["Bonus vs City 33%","Limited Visibility"],
-		"hurryCostModifier": 20,
-		"attackSound": "nonmetalhit"
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 250,
+		"uniques": ["Bonus for units in 2 tile radius 15%",
+			"Can construct [Citadel]",
+			"Cannot be purchased",
+			"Requires [Infection]"]
 	},
 	{
 		"name": "Ghost",
@@ -20,7 +18,31 @@
 		"unitType": "Civilian",
 		"movement": 3,
 		"cost": 25,
-		"uniques": ["All tiles costs 1","Can pass through impassable tiles","Invisible to others","Can attack submarines","+1 Visibility Range","May withdraw before melee ([150]%)"]
+		"uniques": ["Ignores terrain cost",
+			"Can pass through impassable tiles",
+			"Invisible to others",
+			"Can attack submarines",
+			"+1 Visibility Range",
+			"May withdraw before melee ([150]%)",
+			"Requires [Infection]"]
+	},
+	{
+		"name": "Hearse",
+		"uniqueTo": "The Undead",
+		"replaces": "Chariot Archer",
+		"unitType": "Ranged",
+		"movement": 4,
+		"strength": 6,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "The Wheel",
+		"requiredResource": "Horses",
+		"upgradesTo": "Knight",
+		"obsoleteTech": "Chivalry",
+		"uniques": ["No defensive terrain bonus",
+			"Rough terrain penalty",
+			"Requires [Infection]"],
+		"attackSound": "arrow"
 	},
 	{
 		"name": "Black Death",
@@ -34,8 +56,10 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
-		"promotions": ["Sickening Plague","Advanced Infection"],
+		"uniques": ["Can move after attacking",
+			"No defensive terrain bonus",
+			"Requires [Infection]"],
+		"promotions": ["Sickening Plague","Strength of the Grave"],
 		"attackSound": "horse"
 	},
 	{
@@ -50,6 +74,7 @@
 		"cost": 375,
 		"requiredTech": "Radar",
 		"requiredResource": "Oil",
+		"uniques": ["Requires [Infection]"],
 		"attackSound": "throw"
 	},
 	{
@@ -57,7 +82,10 @@
 		"uniqueTo": "The Undead",
 		"replaces": "Great Merchant",
 		"unitType": "Civilian",
-		"uniques": ["Can start an [8]-turn golden age", "Can construct [Customs house]", "Great Person - [Gold]", "Unbuildable"],
+		"uniques": ["Bonus for units in 2 tile radius 15%",
+			"Can construct [Customs house]",
+			"Great Person - [Gold]",
+			"Unbuildable"],
 		"movement": 2
 	},
 	{
@@ -65,7 +93,10 @@
 		"uniqueTo":"The Undead",
 		"replaces": "Great Artist",
 		"unitType": "Civilian",
-		"uniques": ["Can start an [8]-turn golden age", "Can construct [Abyss]", "Great Person - [Culture]", "Unbuildable"],
+		"uniques": ["Can start an [8]-turn golden age",
+			"Can construct [Abyss]",
+			"Great Person - [Culture]",
+			"Unbuildable"],
 		"movement": 2
 	},
 	{
@@ -73,7 +104,12 @@
 		"unitType": "Civilian",
 		"uniqueTo": "The Undead",
 		"replaces": "Great General",
-		"uniques": ["Ignores terrain cost","Can start an [8]-turn golden age","Bonus for units in 2 tile radius 15%","Heal adjacent units for an additional 15 HP per turn","Can construct [Citadel]","Great Person - [War]","Unbuildable"],
+		"uniques": ["Ignores terrain cost",
+			"Can hurry technology research",
+			"Bonus for units in 2 tile radius 15%",
+			"Can construct [Citadel]",
+			"Great Person - [War]",
+			"Unbuildable"],
 		"movement": 3
 	}
 ]

@@ -15,10 +15,7 @@
 	{
 		"name": "Abyss",
 		"uniqueTo":"The Undead",
-		"culture": -2,
-		"food": -1,
-		"production": -1,
-		"gold": -1,
+		"culture": 1,
 		"uniques": ["Gives a defensive bonus of [50]%","Great Improvement"]
 	}
 ]
