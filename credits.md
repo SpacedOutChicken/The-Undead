@@ -44,8 +44,14 @@ Tasty Brains: [Brain by AFY Studio](https://thenounproject.com/term/brain/145552
 
 Hearse: [Carriage by Elijah Meeks](https://thenounproject.com/term/carriage/3036/)
 
+Breach the Walls: [disruptor by Luis Prado](https://thenounproject.com/term/disruptor/2640915/)
+
+Eat the Living: [fork and knife by John Winowiecki](https://thenounproject.com/term/fork-and-knife/3415220/)
+
 Pixel art:
 
 Graveyard and Abyss tile improvements by ekids789789#4813 on Discord
 
 Arms Merchant, Black Death, Ghost, and Lich King units by GeneralWadaling#2878 on Discord
+
+Demi-Lich, Hearse, and Necromancer units based on Great General, Chariot Archer, and Great Prophet units by GeneralWadaling#2878 on Discord

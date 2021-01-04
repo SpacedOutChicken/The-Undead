@@ -118,7 +118,7 @@ TileSets/FantasyHex/Tiles/Abyss
   index: -1
 TileSets/FantasyHex/Tiles/Graveyard
   rotate: false
-  xy: 1434, 206
+  xy: 36, 2
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
@@ -137,18 +137,39 @@ TileSets/FantasyHex/Units/Black Death
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Demi-Lich
+  rotate: false
+  xy: 1226, 156
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Ghost
   rotate: false
-  xy: 1226, 159
+  xy: 1538, 211
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Hearse
+  rotate: false
+  xy: 1260, 159
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lich King
   rotate: false
-  xy: 36, 4
+  xy: 70, 4
   size: 32, 31
   orig: 32, 31
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Necromancer
+  rotate: false
+  xy: 1572, 211
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Arms Merchant
@@ -207,37 +228,51 @@ UnitIcons/Necromancer
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Hard to Kill Twice
+UnitPromotionIcons/Breach the Walls
   rotate: false
   xy: 1124, 87
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Sickening Plague
+UnitPromotionIcons/Eat the Living
   rotate: false
   xy: 1226, 189
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Strength of the Grave
+UnitPromotionIcons/Hard to Kill Twice
   rotate: false
   xy: 1278, 189
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Summon the Lich King
+UnitPromotionIcons/Sickening Plague
   rotate: false
   xy: 1330, 189
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Undead
+UnitPromotionIcons/Strength of the Grave
   rotate: false
   xy: 1382, 189
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Summon the Lich King
+  rotate: false
+  xy: 1434, 189
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Undead
+  rotate: false
+  xy: 1486, 189
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

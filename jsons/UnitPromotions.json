@@ -1,11 +1,15 @@
 [
 	{
 		"name": "Undead",
-		"uniques": ["Undead",
-			"Heals [25] damage if it kills a unit",
-			"+[25]% Strength vs [City]",
-			"Uncapturable",
-			"Can move immediately once bought"]
+		"uniques": ["Undead","Uncapturable"]
+	},
+	{
+		"name": "Breach the Walls",
+		"uniques": ["+[25]% Strength vs [City]"]
+	},
+	{
+		"name": "Eat the Living",
+		"uniques": ["Heals [25] damage if it kills a unit"]
 	},
 	{
 		"name": "Hard to Kill Twice",
