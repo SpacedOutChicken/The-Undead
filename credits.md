@@ -1,6 +1,6 @@
 Icons adapted from the Noun Project:
 
-Nation icon/Undead promotion/Curse of Undeath: [Skull by Vladimir Belochkin](https://thenounproject.com/term/Skull/1030702/)
+Nation icon/Undead promotion: [Skull by Vladimir Belochkin](https://thenounproject.com/term/Skull/1030702/)
 
 Arms Merchant: [dollar target by Rockicon](https://thenounproject.com/term/dollar-target/472861/)
 
@@ -20,10 +20,6 @@ Lich King's Tomb: [Ankara by ProSymbols](https://thenounproject.com/term/ankara/
 
 Graveyard: [graveyard by Nikita Kozin](https://thenounproject.com/term/graveyard/573169)
 
-Fast Fossil Fuel: [petroleum by Andrejs Kirma](https://thenounproject.com/term/petroleum/2649102/)
-
-Unused Courthouse: [Judge by Krisztian from mokapot.hu](https://thenounproject.com/term/Judge/1076388/)
-
 Memento Mori: [Tombstone by Sneha](https://thenounproject.com/term/tombstone/2915140/)
 
 Abyss: [canyon by iconfield](https://thenounproject.com/term/canyon/3005193/)
@@ -34,11 +30,9 @@ Necromancer: [necromancy by HeadsOfBirds](https://thenounproject.com/term/necrom
 
 House on a Haunted Hill: [Haunted House by sumhi_icon](https://thenounproject.com/term/haunted-house/1387450/)
 
-Mass Grave/Strength of the Grave: [Mass Grave by Dan Hetteix](https://thenounproject.com/term/mass-grave/75126/)
+Mass Grave: [Mass Grave by Dan Hetteix](https://thenounproject.com/term/mass-grave/75126/)
 
 Demi-Lich: [Skull by Karsten Barnett](https://thenounproject.com/term/skull/47649/)
-
-Skeleton Dance: [Skeleton by Lele Saa](https://thenounproject.com/term/skeleton/689675/)
 
 Tasty Brains: [Brain by AFY Studio](https://thenounproject.com/term/brain/1455525/)
 

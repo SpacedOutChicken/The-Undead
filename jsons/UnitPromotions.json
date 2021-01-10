@@ -1,11 +1,11 @@
 [
 	{
 		"name": "Undead",
-		"uniques": ["Undead","Uncapturable"]
+		"uniques": ["Undead", "Uncapturable", "-[5]% Strength vs [military units]"]
 	},
 	{
 		"name": "Breach the Walls",
-		"uniques": ["+[25]% Strength vs [City]"]
+		"uniques": ["+[15]% Strength vs [City]"]
 	},
 	{
 		"name": "Eat the Living",
@@ -17,15 +17,10 @@
 	},
 	{
 		"name": "Sickening Plague",
-		"uniques": ["-10% combat strength for adjacent enemy units",
-			"+[5]% Strength vs [wounded units]"]
+		"uniques": ["-10% combat strength for adjacent enemy units", "+[5]% Strength vs [wounded units]"]
 	},
 	{
 		"name": "Summon the Lich King",
 		"uniques": ["[Great General] is earned [25]% faster"]
-	},
-	{
-		"name": "Strength of the Grave",
-		"uniques": ["All healing effects doubled"]
 	}
 ]
