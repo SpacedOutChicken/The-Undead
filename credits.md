@@ -42,10 +42,12 @@ Breach the Walls: [disruptor by Luis Prado](https://thenounproject.com/term/disr
 
 Eat the Living: [fork and knife by John Winowiecki](https://thenounproject.com/term/fork-and-knife/3415220/)
 
+Angel of Death: [wings by Luis Prado](https://thenounproject.com/term/wings/51806/)
+
 Pixel art:
 
 Graveyard and Abyss tile improvements by ekids789789#4813 on Discord
 
-Arms Merchant, Black Death, Ghost, and Lich King units by GeneralWadaling#2878 on Discord
+Arms Merchant, Black Death, Ghost, Warrior-Undead and Lich King units by GeneralWadaling#2878 on Discord
 
-Demi-Lich, Hearse, and Necromancer units based on Great General, Chariot Archer, and Great Prophet units by GeneralWadaling#2878 on Discord
+All other pixel art based on units by GeneralWadaling#2878 with minor modifications by Lodo the Bear

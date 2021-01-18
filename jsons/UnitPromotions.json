@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Undead",
-		"uniques": ["Undead", "Uncapturable", "-[5]% Strength vs [military units]"]
+		"uniques": ["Undead", "Uncapturable", "-[10]% Strength vs [military units]"]
 	},
 	{
 		"name": "Breach the Walls",

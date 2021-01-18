@@ -3,8 +3,8 @@
 		"name": "The Undead",
 		"leaderName": "The Mindless Horde",
 		"adjective": ["Undead"],
-		"startBias": ["Snow", "Desert"],
 		"preferredVictoryType": "Domination",
+		"style": "Undead",
 		
 		"startIntroPart1": "'When there's no more room in Hell, the dead will walk the earth.' - George A. Romero",
 		"startIntroPart2": "'Darkness falls across the land, the midnight hour is close at hand, creatures crawl in search of blood to terrorize y'all's neighborhood' - Vincent Price",
@@ -37,7 +37,8 @@
 			"+30% Strength when fighting City-State units and cities",
 			"Golden Age length increased by [-50]%",
 			"-[50]% [All] unit maintenance costs",
-			"+[25]% Production when constructing [military] units",
+			"+[20]% Production when constructing [military] units",
+			"+[-10]% Production when constructing [Wonders]",
 			"[All] units gain the [Undead] promotion",
 			"[non-air] units gain the [Breach the Walls] promotion",
 			"[Melee] units gain the [Eat the Living] promotion", "[Mounted] units gain the [Eat the Living] promotion", "[Armor] units gain the [Eat the Living] promotion", "[WaterMelee] units gain the [Eat the Living] promotion", "[Scout] units gain the [Eat the Living] promotion",
@@ -47,7 +48,8 @@
 			"[-1 Science, -1 Culture] in all cities",
 			"[-1 Science] per [2] population in all cities",
 			"[-1 Science] from all [Science] buildings",
-			"+[10]% combat bonus for units fighting in [Fallout]"],
+			"+[10]% combat bonus for units fighting in [Fallout]",
+			"Units fight as though they were at full strength even when damaged"],
 		"cities": ["Ground Zero"]
 	}
 ]
