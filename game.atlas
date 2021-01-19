@@ -361,37 +361,65 @@ TileSets/FantasyHex/Units/Rocket Artillery-Undead
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Spearman-Undead
+TileSets/FantasyHex/Units/Settler-Germanic
   rotate: false
-  xy: 1790, 211
-  size: 32, 28
-  orig: 32, 28
+  xy: 1790, 210
+  size: 32, 29
+  orig: 32, 29
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Swordsman-Undead
+TileSets/FantasyHex/Units/Settler-Undead
+  rotate: false
+  xy: 1824, 210
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Spearman-Undead
   rotate: false
   xy: 648, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Tank-Undead
+TileSets/FantasyHex/Units/Swordsman-Undead
   rotate: false
-  xy: 1824, 211
+  xy: 1858, 211
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Trireme-Undead
+TileSets/FantasyHex/Units/Tank-Undead
   rotate: false
   xy: 682, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Trireme-Undead
+  rotate: false
+  xy: 1892, 211
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Warrior-Undead
   rotate: false
-  xy: 1858, 211
+  xy: 716, 7
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Work Boats-Undead
+  rotate: false
+  xy: 1926, 211
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Worker-Undead
+  rotate: false
+  xy: 750, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0

@@ -79,7 +79,6 @@
 			"Can move after attacking",
 			"All tiles cost 1 movement",
 			"Can pass through impassable tiles"],
-		"promotions": ["Eat the Living"],
 		"attackSound": "throw"
 	},
 	{
@@ -101,8 +100,8 @@
 			"Requires at least [2] population",
 			"[100]% chance to intercept air attacks",
 			"6 tiles in every direction always visible",
-			"Earn [-5]% of [military] opponent's [Cost] as [Gold] for kills",
-			"Earn [-15]% of [military] opponent's [Strength] as [Culture] for kills"],
+			"Earn [-10]% of [military] opponent's [Cost] as [Gold] for kills",
+			"Earn [-25]% of [military] opponent's [Strength] as [Culture] for kills"],
 		"promotions": ["Eat the Living","Sortie","Logistics"]
 	},
 	{
