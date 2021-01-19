@@ -48,6 +48,6 @@ Pixel art:
 
 Graveyard and Abyss tile improvements by ekids789789#4813 on Discord
 
-Arms Merchant, Black Death, Ghost, Warrior-Undead and Lich King units by GeneralWadaling#2878 on Discord
+Arms Merchant, Black Death, Bone Dragon, Ghost, Warrior-Undead and Lich King units by GeneralWadaling#2878 on Discord
 
 All other pixel art based on units by GeneralWadaling#2878 with minor modifications by Lodo the Bear
