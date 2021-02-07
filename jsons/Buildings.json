@@ -20,7 +20,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Monument] in all cities",
-			"-50% cost when purchasing tiles",
+			"-[25]% Gold cost of acquiring tiles [in all cities]",
 			"All newly-trained [non-air] units in this city receive the [Hard to Kill Twice] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
@@ -52,7 +52,7 @@
 		"replaces": "Monument",
 		"culture": 2,
 		"cost": 40,
-		"uniques": ["Culture and Gold costs of acquiring new tiles reduced by 25% in this city"],
+		"uniques": ["-[50]% Culture cost of acquiring tiles [in this city]"],
 		"hurryCostModifier": 40,
 		"maintenance": 1
 	},
@@ -77,15 +77,5 @@
 		"requiredBuilding": "Monument",
 		"hurryCostModifier": 25,
         "requiredTech": "Philosophy"
-	},
-	{
-		"name": "House on a Haunted Hill",
-		"uniqueTo":"The Undead",
-		"replaces": "Castle",
-		"cityStrength": 9,
-		"cityHealth": 30,
-		"hurryCostModifier": 25,
-		"requiredBuilding": "Walls",
-		"requiredTech": "Chivalry"
 	}
 ]

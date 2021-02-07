@@ -9,8 +9,7 @@
 		"uniques": ["Bonus for units in 2 tile radius 15%",
 			"Can construct [Citadel]",
 			"Cost increases by [50] per owned city",
-			"Cannot be purchased",
-			"Requires [Infection]"]
+			"Cannot be purchased"]
 	},
 	{
 		"name": "Ghost",
@@ -24,26 +23,7 @@
 			"Invisible to others",
 			"Can attack submarines",
 			"+1 Visibility Range",
-			"May withdraw before melee ([150]%)",
-			"Requires [Infection]"]
-	},
-	{
-		"name": "Hearse",
-		"uniqueTo": "The Undead",
-		"replaces": "Chariot Archer",
-		"unitType": "Ranged",
-		"movement": 4,
-		"strength": 6,
-		"rangedStrength": 10,
-		"cost": 56,
-		"requiredTech": "The Wheel",
-		"requiredResource": "Horses",
-		"upgradesTo": "Knight",
-		"obsoleteTech": "Chivalry",
-		"uniques": ["No defensive terrain bonus",
-			"Rough terrain penalty",
-			"Requires [Infection]"],
-		"attackSound": "arrow"
+			"May withdraw before melee ([150]%)"]
 	},
 	{
 		"name": "Black Death",
@@ -58,8 +38,7 @@
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking",
-			"No defensive terrain bonus",
-			"Requires [Infection]"],
+			"No defensive terrain bonus"],
 		"promotions": ["Sickening Plague","Rejuvenation"],
 		"attackSound": "horse"
 	},

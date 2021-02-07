@@ -28,15 +28,11 @@ Bone Dragon: [dragon by BGBOXXX Design](https://thenounproject.com/term/dragon/1
 
 Necromancer: [necromancy by HeadsOfBirds](https://thenounproject.com/term/necromancy/1178598/)
 
-House on a Haunted Hill: [Haunted House by sumhi_icon](https://thenounproject.com/term/haunted-house/1387450/)
-
 Mass Grave: [Mass Grave by Dan Hetteix](https://thenounproject.com/term/mass-grave/75126/)
 
 Demi-Lich: [Skull by Karsten Barnett](https://thenounproject.com/term/skull/47649/)
 
 Tasty Brains: [Brain by AFY Studio](https://thenounproject.com/term/brain/1455525/)
-
-Hearse: [Carriage by Elijah Meeks](https://thenounproject.com/term/carriage/3036/)
 
 Breach the Walls: [disruptor by Luis Prado](https://thenounproject.com/term/disruptor/2640915/)
 
