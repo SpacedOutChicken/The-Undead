@@ -44,6 +44,7 @@
 			"[Melee] units gain the [Eat the Living] promotion", "[Mounted] units gain the [Eat the Living] promotion", "[Armor] units gain the [Eat the Living] promotion", "[WaterMelee] units gain the [Eat the Living] promotion", "[Scout] units gain the [Eat the Living] promotion",
 			"[+3 Food, +2 Production, +2 Gold, +2 Happiness] from every [Graveyard]",
 			"[+3 Culture, +1 Production, +1 Gold, +1 Food] from every [Abyss]",
+			"[+4 Food, +4 Production, +4 Gold] from every [Fallout]",
 			"+[10]% Strength if within [1] tiles of a [Graveyard]",
 			"+[-50]% [Science] in all cities",
 			"+[-50]% [Culture] in all cities",
