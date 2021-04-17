@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Eat the Living",
-		"uniques": ["Heals [25] damage if it kills a unit", "Earn [25]% of [military] opponent's [Strength] as [Culture] for kills"]
+		"uniques": ["Heals [25] damage if it kills a unit", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]"]
 	},
 	{
 		"name": "Hard to Kill Twice",
