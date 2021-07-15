@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Eat the Living",
-		"uniques": ["Heals [25] damage if it kills a unit", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]"]
+		"uniques": ["Heals [25] damage if it kills a unit", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]", "Earn [10]% of the damage done to [All] units as [Gold]"]
 	},
 	{
 		"name": "Hard to Kill Twice",
@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "Sickening Plague",
-		"uniques": ["-10% combat strength for adjacent enemy units", "+[5]% Strength vs [wounded units]"]
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "+[5]% Strength vs [wounded units]"]
 	},
 	{
 		"name": "Summon the Lich King",

@@ -5,11 +5,10 @@
 		"replaces": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
-		"cost": 500,
-		"uniques": ["Bonus for units in 2 tile radius 15%",
+		"uniques": ["Founds a new city",
+			"Bonus for units in 2 tile radius 15%",
 			"Can construct [Citadel]",
-			"Cost increases by [50] per owned city",
-			"Cannot be purchased"]
+			"Unbuildable"]
 	},
 	{
 		"name": "Ghost",
@@ -22,7 +21,7 @@
 			"Can pass through impassable tiles",
 			"Invisible to others",
 			"Can attack submarines",
-			"+1 Visibility Range",
+			"[+1] Visibility Range",
 			"May withdraw before melee ([150]%)"]
 	},
 	{
@@ -58,7 +57,7 @@
 			"Can move after attacking",
 			"All tiles cost 1 movement",
 			"Can pass through impassable tiles"],
-		"attackSound": "throw"
+		"attackSound": "gdrAttack"
 	},
 	{
 		"name": "Angel of Death",
@@ -73,15 +72,15 @@
 		"cost": 1000,
 		"requiredTech": "Rocketry",
 		"requiredResource": "Uranium",
-		"uniques": ["Nuclear weapon",
-			"Requires [Manhattan Project]",
+		"uniques": ["Requires [Manhattan Project]",
 			"Excess Food converted to Production when under construction",
 			"Requires at least [2] population",
 			"[100]% chance to intercept air attacks",
 			"6 tiles in every direction always visible",
 			"Earn [-10]% of [military] opponent's [Cost] as [Gold] for kills",
 			"Earn [-25]% of [military] opponent's [Strength] as [Culture] for kills"],
-		"promotions": ["Eat the Living","Sortie","Logistics"]
+		"promotions": ["Eat the Living","Sortie","Logistics"],
+		"attackSound": "bombing"
 	},
 	{
 		"name": "Arms Merchant",

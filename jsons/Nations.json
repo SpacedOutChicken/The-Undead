@@ -40,7 +40,7 @@
 			"+[-10]% Production when constructing [Wonders]",
 			"[All] units gain the [Undead] promotion",
 			"[non-air] units gain the [Breach the Walls] promotion",
-			"[Melee] units gain the [Eat the Living] promotion", "[Mounted] units gain the [Eat the Living] promotion", "[Armor] units gain the [Eat the Living] promotion", "[WaterMelee] units gain the [Eat the Living] promotion", "[Scout] units gain the [Eat the Living] promotion",
+			"[Melee] units gain the [Eat the Living] promotion", 
 			"[+3 Food, +2 Production, +2 Gold, +2 Happiness] from every [Graveyard]",
 			"[+3 Culture, +1 Production, +1 Gold, +1 Food] from every [Abyss]",
 			"[+4 Food, +4 Production, +4 Gold] from every [Fallout]",
@@ -49,6 +49,8 @@
 			"+[-50]% [Culture] in all cities",
 			"+[10]% combat bonus for units fighting in [Fallout]",
 			"Units fight as though they were at full strength even when damaged"],
-		"cities": ["Ground Zero"]
+		"cities": ["Ground Zero", "Site B", "Site C", "Site D", "Site E", "Site F", "Site G", "Site H",
+			"Site I", "Site J", "Site K", "Site L", "Site M", "Site N", "Site O", "Site P", "Site Q", "Site R",
+			"Site S", "Site T", "Site U", "Site V", "Site W", "Site X", "Site Y", "Site Z"]
 	}
 ]

@@ -67,7 +67,7 @@
 	},
 	{
         "name": "Lich King's Tomb",
-        "replaces": "Temple",
+        "replaces": "Amphitheater",
         "uniqueTo": "The Undead",
 		"uniques": ["Doubles Gold given to enemy if city is captured",
 			"All newly-trained [military] units in this city receive the [Summon the Lich King] promotion"],
@@ -76,6 +76,6 @@
 		"specialistSlots": {"Artist": 1},
 		"requiredBuilding": "Monument",
 		"hurryCostModifier": 25,
-        "requiredTech": "Philosophy"
+        "requiredTech": "Drama and Poetry"
 	}
 ]
