@@ -62,7 +62,7 @@
 		"replaces": "Library",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
-		"uniques": ["[+1 Science] Per [3] population [in this city]"],
+		"uniques": ["[+1 Science] per [3] population [in this city]"],
 		"requiredTech": "Writing"
 	},
 	{
@@ -70,7 +70,7 @@
         "replaces": "Amphitheater",
         "uniqueTo": "The Undead",
 		"uniques": ["Doubles Gold given to enemy if city is captured",
-			"All newly-trained [military] units in this city receive the [Summon the Lich King] promotion"],
+			"All newly-trained [Military] units in this city receive the [Summon the Lich King] promotion"],
 		"culture": 3,
 		"maintenance": 2,
 		"specialistSlots": {"Artist": 1},
