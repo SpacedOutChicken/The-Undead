@@ -104,6 +104,7 @@
 		"replaces": "Great General",
 		"uniques": ["Ignores terrain cost",
 			"Can start an [6]-turn golden age",
+			"All adjacent units heal [5] HP when healing",
 			"Bonus for units in 2 tile radius 15%",
 			"Can construct [Citadel]",
 			"Great Person - [War]",
