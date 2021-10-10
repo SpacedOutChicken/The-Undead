@@ -1,11 +1,11 @@
 [
 	{
 		"name": "Undead",
-		"uniques": ["Undead", "Uncapturable", "-[10]% Strength vs [military units]","May capture killed [Military] units","[-5] HP when healing"]
+		"uniques": ["Undead", "Uncapturable", "[-10]% Strength <vs [Military] units>","May capture killed [Military] units","[-5] HP when healing"]
 	},
 	{
 		"name": "Breach the Walls",
-		"uniques": ["+[15]% Strength vs [City]"]
+		"uniques": ["[+15]% Strength <vs cities>"]
 	},
 	{
 		"name": "Eat the Living",
@@ -13,11 +13,11 @@
 	},
 	{
 		"name": "Hard to Kill Twice",
-		"uniques": ["+[15]% Strength when defending"]
+		"uniques": ["[+15]% Strength <when defending>"]
 	},
 	{
 		"name": "Sickening Plague",
-		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "+[5]% Strength vs [wounded units]"]
+		"uniques": ["[-10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+5]% Strength <vs [Wounded] units>"]
 	},
 	{
 		"name": "Summon the Lich King",

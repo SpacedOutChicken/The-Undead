@@ -19,10 +19,10 @@
 		"cost": 25,
 		"uniques": ["Ignores terrain cost",
 			"Can pass through impassable tiles",
-			"Invisible to others",
-			"Can attack submarines",
-			"[+1] Visibility Range",
-			"May withdraw before melee ([150]%)"]
+			"Invisible to non-adjacent units",
+			"Can see invisible [Land] units",
+			"[+1] Sight",
+			"May withdraw before melee ([100]%)"]
 	},
 	{
 		"name": "Black Death",
@@ -43,7 +43,7 @@
 	},
 	{
 		"name": "Bone Dragon",
-		"unitType": "Melee",
+		"unitType": "Helicopter",
 		"replaces": "Helicopter Gunship",
 		"uniqueTo": "The Undead",
 		"movement": 6,
@@ -52,11 +52,11 @@
 		"requiredTech": "Computers",
 		"requiredResource": "Aluminum",
 		"uniques": ["Requires [Infection]",
-			"Bonus vs Armor 100%",
+			"[+100]% Strength <vs [Armored] units>",
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"All tiles cost 1 movement",
-			"Can pass through impassable tiles"],
+			"Ignores Zone of Control"],
 		"attackSound": "gdrAttack"
 	},
 	{
@@ -71,7 +71,9 @@
 		"cost": 450,
 		"requiredTech": "Stealth",
 		"requiredResource": "Uranium",
-		"uniques": ["Damage taken from interception reduced by [100]%", "Cannot be carried by [Carrier] units", "6 tiles in every direction always visible"],
+		"uniques": ["Damage taken from interception reduced by [100]%",
+			"Cannot be carried by [Carrier] units",
+			"6 tiles in every direction always visible"],
 		"attackSound": "bombing"
 	},
 	{
@@ -104,11 +106,13 @@
 		"replaces": "Great General",
 		"uniques": ["Ignores terrain cost",
 			"Can start an [6]-turn golden age",
-			"All adjacent units heal [5] HP when healing",
+			"All adjacent units heal [+5] HP when healing",
+			"[+5] HP when healing",
 			"Bonus for units in 2 tile radius 15%",
 			"Can construct [Citadel]",
 			"Great Person - [War]",
-			"Unbuildable"],
+			"Unbuildable",
+			"Uncapturable"],
 		"movement": 3
 	}
 ]
