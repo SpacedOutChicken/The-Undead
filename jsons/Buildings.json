@@ -9,7 +9,7 @@
         "isNationalWonder": true,
 		"uniques": ["Requires a [Colosseum] in all cities",
 			"Cost increases by [30] per owned city",
-			"All newly-trained [non-air] units in this city receive the [Rejuvenation] promotion"],
+			"All newly-trained [non-air] units [in this city] receive the [Rejuvenation] promotion"],
         "requiredTech": "Horseback Riding"
     },
 	{
@@ -21,7 +21,7 @@
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Monument] in all cities",
 			"-[25]% Gold cost of acquiring tiles [in all cities]",
-			"All newly-trained [non-air] units in this city receive the [Hard to Kill Twice] promotion",
+			"All newly-trained [non-air] units [in this city] receive the [Hard to Kill Twice] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
 	},
@@ -33,7 +33,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Barracks] in all cities",
-			"All newly-trained [non-air] units in this city receive the [Sickening Plague] promotion",
+			"All newly-trained [non-air] units [in this city] receive the [Sickening Plague] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Iron Working"
 	},
@@ -70,7 +70,7 @@
         "replaces": "Amphitheater",
         "uniqueTo": "The Undead",
 		"uniques": ["Doubles Gold given to enemy if city is captured",
-			"All newly-trained [Military] units in this city receive the [Summon the Lich King] promotion"],
+			"All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion"],
 		"culture": 3,
 		"maintenance": 2,
 		"specialistSlots": {"Artist": 1},
