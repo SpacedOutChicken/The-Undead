@@ -42,8 +42,12 @@
 		"uniqueTo": "The Undead",
 		"replaces": "Courthouse",
 		"happiness": 3,
-		"maintenance": 1,
-		"uniques": ["Remove extra unhappiness from annexed cities"],
+		"uniques": ["Remove extra unhappiness from annexed cities",
+			"[-10]% Production when constructing [All] wonders [in this city]",
+			"[+15]% Production when constructing [Military] units [in this city]",
+			"[+3 Food, +2 Production, +2 Gold, +2 Happiness] from [Graveyard] tiles [in this city]",
+			"[+3 Culture, +1 Production, +1 Gold, +1 Food] from [Abyss] tiles [in this city]",
+			"[+4 Food, +4 Production, +4 Gold] from [Fallout] tiles [in this city]"],
 		"cost": -1
 	},
 	{
@@ -66,16 +70,16 @@
 		"requiredTech": "Writing"
 	},
 	{
-        "name": "Lich King's Tomb",
-        "replaces": "Amphitheater",
-        "uniqueTo": "The Undead",
+		"name": "Lich King's Tomb",
+		"uniqueTo": "The Undead",
+		"replaces": "Bank",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
 		"uniques": ["Doubles Gold given to enemy if city is captured",
 			"All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion"],
-		"culture": 3,
-		"maintenance": 2,
-		"specialistSlots": {"Artist": 1},
-		"requiredBuilding": "Monument",
-		"hurryCostModifier": 25,
-        "requiredTech": "Drama and Poetry"
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Market",
+		"requiredTech": "Banking"
 	}
 ]

@@ -1,11 +1,11 @@
 [
 	{
 		"name": "Undead",
-		"uniques": ["Undead", "Uncapturable", "[-10]% Strength <vs [Military] units>","May capture killed [Military] units","[-5] HP when healing"]
+		"uniques": ["Undead", "Uncapturable", "[-10]% Strength <vs [Military] units>", "May capture killed [Military] units", "[-5] HP when healing"]
 	},
 	{
 		"name": "Breach the Walls",
-		"uniques": ["[+15]% Strength <vs cities>"]
+		"uniques": ["[+15]% Strength <vs cities>","Double movement in [Fallout]", "[+10]% Strength <when fighting in [Fallout] tiles>"]
 	},
 	{
 		"name": "Eat the Living",
