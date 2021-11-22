@@ -19,6 +19,7 @@
 		"cost": 25,
 		"uniques": ["All tiles cost 1 movement",
 			"Ignores Zone of Control",
+			"May enter foreign tiles without open borders",
 			"Can pass through impassable tiles",
 			"Invisible to non-adjacent units",
 			"Can see invisible [Land] units",
