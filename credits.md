@@ -30,8 +30,6 @@ Necromancer: [necromancy by HeadsOfBirds](https://thenounproject.com/term/necrom
 
 Mass Grave: [Mass Grave by Dan Hetteix](https://thenounproject.com/term/mass-grave/75126/)
 
-Demi-Lich: [Skull by Karsten Barnett](https://thenounproject.com/term/skull/47649/)
-
 Tasty Brains: [Brain by AFY Studio](https://thenounproject.com/term/brain/1455525/)
 
 Breach the Walls: [disruptor by Luis Prado](https://thenounproject.com/term/disruptor/2640915/)
@@ -39,6 +37,10 @@ Breach the Walls: [disruptor by Luis Prado](https://thenounproject.com/term/disr
 Eat the Living: [fork and knife by John Winowiecki](https://thenounproject.com/term/fork-and-knife/3415220/)
 
 Angel of Death: [wings by Luis Prado](https://thenounproject.com/term/wings/51806/)
+
+Morgue: [morgue by MonoGraphic, ES](https://thenounproject.com/term/morgue/3836271/)
+
+Gravedigger: [Shovel by Milinda Courey](https://thenounproject.com/term/shovel/231777/)
 
 Pixel art:
 

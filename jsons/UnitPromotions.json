@@ -5,7 +5,7 @@
 	},
 	{
 		"name": "Breach the Walls",
-		"uniques": ["[+15]% Strength <vs cities>","Double movement in [Fallout]", "[+10]% Strength <when fighting in [Fallout] tiles>"]
+		"uniques": ["[+15]% Strength <vs cities> <when attacking>","Double movement in [Fallout]", "[+10]% Strength <when fighting in [Fallout] tiles>"]
 	},
 	{
 		"name": "Eat the Living",

@@ -1,20 +1,19 @@
 [
 	{
-		"name": "Demi-Lich",
+		"name": "Gravedigger",
 		"uniqueTo": "The Undead",
 		"replaces": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Founds a new city",
-			"Bonus for units in 2 tile radius 15%",
-			"Can construct [Citadel]",
 			"Unbuildable"]
 	},
 	{
 		"name": "Ghost",
 		"uniqueTo": "The Undead",
 		"replaces": "Scout",
-		"unitType": "Civilian",
+		"unitType": "Scout",
+		"strength": 4,
 		"movement": 3,
 		"cost": 25,
 		"uniques": ["All tiles cost 1 movement",
@@ -24,7 +23,8 @@
 			"Invisible to non-adjacent units",
 			"Can see invisible [Land] units",
 			"[+1] Sight",
-			"May withdraw before melee ([100]%)"]
+			"May withdraw before melee ([100]%)",
+			"Cannot attack"]
 	},
 	{
 		"name": "Black Death",
@@ -87,7 +87,8 @@
 			"Bonus for units in 2 tile radius 15%",
 			"Can construct [Customs house]",
 			"Great Person - [Gold]",
-			"Unbuildable"],
+			"Unbuildable",
+			"Uncapturable"],
 		"movement": 2
 	},
 	{
@@ -98,7 +99,8 @@
 		"uniques": ["Can start an [6]-turn golden age",
 			"Can construct [Abyss]",
 			"Great Person - [Culture]",
-			"Unbuildable"],
+			"Unbuildable",
+			"Uncapturable"],
 		"movement": 2
 	},
 	{

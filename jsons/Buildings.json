@@ -4,7 +4,7 @@
 		"uniqueTo": "The Undead",
 		"replaces": "Circus Maximus",
         "cost": 125,
-        "happiness": 2,
+        "happiness": 5,
         "culture": 1,
         "isNationalWonder": true,
 		"uniques": ["Requires a [Colosseum] in all cities",
@@ -46,8 +46,7 @@
 			"[-10]% Production when constructing [All] wonders [in this city]",
 			"[+15]% Production when constructing [Military] units [in this city]",
 			"[+3 Food, +2 Production, +2 Gold, +2 Happiness] from [Graveyard] tiles [in this city]",
-			"[+3 Culture, +1 Production, +1 Gold, +1 Food] from [Abyss] tiles [in this city]",
-			"[+4 Food, +4 Production, +4 Gold] from [Fallout] tiles [in this city]"],
+			"[+3 Culture, +1 Production, +1 Gold, +1 Food] from [Abyss] tiles [in this city]"],
 		"cost": -1
 	},
 	{
@@ -56,7 +55,8 @@
 		"replaces": "Monument",
 		"culture": 2,
 		"cost": 40,
-		"uniques": ["-[50]% Culture cost of acquiring tiles [in this city]"],
+		"uniques": ["-[50]% Culture cost of acquiring tiles [in this city]",
+			"Destroyed when the city is captured"],
 		"hurryCostModifier": 40,
 		"maintenance": 1
 	},
@@ -81,5 +81,17 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Market",
 		"requiredTech": "Banking"
+	},
+	{
+		"name": "Morgue",
+		"uniqueTo": "The Undead",
+		"replaces": "Hospital",
+		"food": 3,
+		"happiness": 1,
+		"culture": 2,
+		"requiredBuilding": "Aqueduct",
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"requiredTech": "Biology"
 	}
 ]

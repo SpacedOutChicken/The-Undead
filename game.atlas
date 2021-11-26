@@ -1,586 +1,558 @@
 
 game.png
-size: 2048,256
+size: 2048, 256
 format: RGBA8888
-filter: MipMapLinearLinear,MipMapLinearLinear
+filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Germ Warfare
   rotate: false
-  xy: 308, 139
+  xy: 220, 43
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Infection
   rotate: false
-  xy: 410, 37
+  xy: 436, 43
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Lich King's Tomb
   rotate: false
-  xy: 512, 37
+  xy: 544, 43
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mass Grave
   rotate: false
-  xy: 614, 139
+  xy: 652, 151
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Memento Mori
   rotate: false
-  xy: 614, 37
+  xy: 652, 43
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Morgue
+  rotate: false
+  xy: 760, 151
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/National Tombstone
   rotate: false
-  xy: 716, 139
+  xy: 760, 43
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tasty Brains
   rotate: false
-  xy: 818, 139
+  xy: 868, 43
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Abyss
   rotate: false
-  xy: 2, 139
+  xy: 4, 151
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Graveyard
   rotate: false
-  xy: 410, 139
+  xy: 436, 151
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Undead
   rotate: false
-  xy: 818, 37
+  xy: 976, 151
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Abyss
   rotate: false
-  xy: 2, 2
+  xy: 976, 52
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Graveyard
   rotate: false
-  xy: 1382, 206
+  xy: 1614, 218
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Undead
   rotate: false
-  xy: 920, 55
+  xy: 4, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Undead
   rotate: false
-  xy: 972, 107
+  xy: 1034, 115
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-Undead
   rotate: false
-  xy: 1024, 159
+  xy: 1084, 165
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Undead
   rotate: false
-  xy: 1076, 211
+  xy: 1374, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Arms Merchant
   rotate: false
-  xy: 36, 7
+  xy: 44, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Undead
   rotate: false
-  xy: 1110, 211
+  xy: 1124, 165
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Undead
   rotate: false
-  xy: 70, 7
+  xy: 1414, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Black Death
   rotate: false
-  xy: 1144, 211
+  xy: 84, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bone Dragon
   rotate: false
-  xy: 104, 7
+  xy: 1164, 165
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-Undead
   rotate: false
-  xy: 1178, 211
+  xy: 1454, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Undead
   rotate: false
-  xy: 138, 7
+  xy: 124, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Undead
   rotate: false
-  xy: 1212, 211
+  xy: 1204, 165
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Undead
   rotate: false
-  xy: 172, 7
+  xy: 1494, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Undead
   rotate: false
-  xy: 1246, 211
+  xy: 164, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Demi-Lich
-  rotate: false
-  xy: 206, 4
-  size: 32, 31
-  orig: 32, 31
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/Frigate-Undead
   rotate: false
-  xy: 1280, 211
+  xy: 1244, 165
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-Undead
   rotate: false
-  xy: 240, 7
+  xy: 1534, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-Undead
   rotate: false
-  xy: 1314, 211
+  xy: 204, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Undead
   rotate: false
-  xy: 274, 7
+  xy: 1284, 165
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ghost
   rotate: false
-  xy: 1348, 211
+  xy: 1574, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Undead
   rotate: false
-  xy: 308, 7
+  xy: 244, 7
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Gravedigger
+  rotate: false
+  xy: 1324, 165
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-Undead
   rotate: false
-  xy: 342, 7
+  xy: 284, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician-Undead
   rotate: false
-  xy: 1416, 211
+  xy: 1654, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Prophet-Undead
   rotate: false
-  xy: 376, 7
+  xy: 324, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-Undead
   rotate: false
-  xy: 1450, 211
+  xy: 1694, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Undead
   rotate: false
-  xy: 410, 7
+  xy: 364, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Undead
   rotate: false
-  xy: 1484, 211
+  xy: 1734, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Undead
   rotate: false
-  xy: 444, 7
+  xy: 404, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Undead
   rotate: false
-  xy: 1518, 210
+  xy: 1774, 222
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/LandUnit
-  rotate: false
-  xy: 478, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/LandUnit-Undead
   rotate: false
-  xy: 1552, 211
+  xy: 444, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Undead
   rotate: false
-  xy: 512, 7
+  xy: 1814, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lich King
   rotate: false
-  xy: 1586, 208
+  xy: 484, 4
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Undead
   rotate: false
-  xy: 546, 7
+  xy: 1854, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Undead
   rotate: false
-  xy: 1620, 211
+  xy: 524, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Undead
   rotate: false
-  xy: 580, 7
+  xy: 1894, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Undead
   rotate: false
-  xy: 1654, 211
+  xy: 564, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Undead
   rotate: false
-  xy: 614, 7
+  xy: 1934, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Undead
   rotate: false
-  xy: 1688, 211
+  xy: 604, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Necromancer
   rotate: false
-  xy: 648, 7
+  xy: 1974, 223
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Undead
   rotate: false
-  xy: 1722, 211
+  xy: 644, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Undead
   rotate: false
-  xy: 682, 7
+  xy: 684, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-Undead
   rotate: false
-  xy: 1756, 211
+  xy: 724, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Undead
   rotate: false
-  xy: 716, 7
+  xy: 764, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Undead
   rotate: false
-  xy: 1790, 211
+  xy: 804, 7
   size: 32, 28
   orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Scout-Undead
-  rotate: false
-  xy: 750, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Units/Settler-Undead
-  rotate: false
-  xy: 1824, 210
-  size: 32, 29
-  orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Undead
   rotate: false
-  xy: 784, 7
+  xy: 844, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Undead
   rotate: false
-  xy: 1858, 211
+  xy: 884, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Undead
   rotate: false
-  xy: 818, 7
+  xy: 924, 7
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-Undead
   rotate: false
-  xy: 1892, 211
+  xy: 1034, 79
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Undead
   rotate: false
-  xy: 852, 7
+  xy: 1374, 187
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/WaterUnit
-  rotate: false
-  xy: 1926, 213
-  size: 32, 26
-  orig: 32, 26
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Units/WaterUnit-Undead
   rotate: false
-  xy: 886, 9
+  xy: 1414, 189
   size: 32, 26
   orig: 32, 26
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Undead
   rotate: false
-  xy: 920, 25
+  xy: 1454, 187
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Undead
   rotate: false
-  xy: 1960, 211
+  xy: 1494, 187
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 UnitIcons/Angel of Death
   rotate: false
-  xy: 2, 37
+  xy: 4, 43
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Arms Merchant
   rotate: false
-  xy: 104, 139
+  xy: 112, 151
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Black Death
   rotate: false
-  xy: 104, 37
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Grim Reaper
-  rotate: false
-  xy: 104, 37
+  xy: 112, 43
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bone Dragon
   rotate: false
-  xy: 206, 139
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Demi-Lich
-  rotate: false
-  xy: 206, 37
+  xy: 220, 151
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ghost
   rotate: false
-  xy: 308, 37
+  xy: 328, 151
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Gravedigger
+  rotate: false
+  xy: 328, 43
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lich King
   rotate: false
-  xy: 512, 139
+  xy: 544, 151
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Necromancer
   rotate: false
-  xy: 716, 37
+  xy: 868, 151
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Breach the Walls
   rotate: false
-  xy: 920, 189
+  xy: 976, 93
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Eat the Living
   rotate: false
-  xy: 920, 137
+  xy: 1084, 201
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hard to Kill Twice
   rotate: false
-  xy: 972, 189
+  xy: 1142, 201
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sickening Plague
   rotate: false
-  xy: 920, 85
+  xy: 1200, 201
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Summon the Lich King
   rotate: false
-  xy: 972, 137
+  xy: 1258, 201
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Undead
   rotate: false
-  xy: 1024, 189
+  xy: 1316, 201
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
