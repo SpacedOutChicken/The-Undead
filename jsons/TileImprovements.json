@@ -9,8 +9,8 @@
 		"turnsToBuild": 6,
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains","Hill","Tundra","Snow","Forest","Jungle","Fallout"],
 		"uniques": ["Gives a defensive bonus of [-10]%",
-			"[+1 Food] once [Civil Service] is discovered",
-			"[+1 Production] once [Biology] is discovered",
+			"[+1 Food] <after discovering [Civil Service]>",
+			"[+1 Production] <after discovering [Biology]>",
 			"Can be built outside your borders"],
 		"techRequired": "Agriculture",
 		"shortcutKey": "G"
