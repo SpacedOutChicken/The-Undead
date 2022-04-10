@@ -55,7 +55,7 @@
 		"replaces": "Monument",
 		"culture": 2,
 		"cost": 40,
-		"uniques": ["-[50]% Culture cost of natural border growth [in this city]",
+		"uniques": ["[-50]% Culture cost of natural border growth [in this city]",
 			"Destroyed when the city is captured"],
 		"hurryCostModifier": 40,
 		"maintenance": 1
