@@ -19,6 +19,7 @@
 		"name": "Abyss",
 		"uniqueTo":"The Undead",
 		"culture": 1,
+		"terrainsCanBeBuiltOn": [Land],
 		"uniques": ["Gives a defensive bonus of [50]%",
 			"Great Improvement"]
 	}

@@ -20,7 +20,7 @@
 		"culture": 1,
 		"isNationalWonder": true,
 		"uniques": ["Requires a [Monument] in all cities",
-			"-[25]% Gold cost of acquiring tiles [in all cities]",
+			"[-25]% Gold cost of acquiring tiles [in all cities]",
 			"All newly-trained [non-air] units [in this city] receive the [Hard to Kill Twice] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
