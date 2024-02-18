@@ -15,7 +15,7 @@
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Swordsman",
-		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Unbuildable"],
 		"attackSound": "nonmetalhit"
 	},
 	{

@@ -6,1673 +6,1323 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Germ Warfare
   rotate: false
-  xy: 220, 43
+  xy: 220, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Infection
   rotate: false
-  xy: 436, 43
+  xy: 436, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Lich King's Tomb
   rotate: false
-  xy: 544, 43
+  xy: 544, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mass Grave
   rotate: false
-  xy: 652, 151
+  xy: 652, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Memento Mori
   rotate: false
-  xy: 652, 43
+  xy: 652, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Morgue
   rotate: false
-  xy: 760, 151
+  xy: 760, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/National Tombstone
   rotate: false
-  xy: 760, 43
+  xy: 760, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tasty Brains
   rotate: false
-  xy: 868, 43
+  xy: 868, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Abyss
   rotate: false
-  xy: 4, 151
+  xy: 4, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Graveyard
   rotate: false
-  xy: 436, 151
+  xy: 436, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Undead
   rotate: false
-  xy: 976, 151
+  xy: 976, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Anti-Aircraft Gun-Undead
   rotate: false
-  xy: 4, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Anti-Aircraft Gun-Undead
-  rotate: false
-  xy: 4, 7
+  xy: 4, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Aircraft Gun-Undead
   rotate: false
-  xy: 4, 7
+  xy: 4, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Aircraft Gun-Undead
   rotate: false
-  xy: 4, 7
+  xy: 4, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Anti-Tank Gun-Undead
   rotate: false
-  xy: 1034, 115
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Anti-Tank Gun-Undead
-  rotate: false
-  xy: 1034, 115
+  xy: 1142, 108
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Anti-Tank Gun-Undead
   rotate: false
-  xy: 1034, 115
+  xy: 1142, 108
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Anti-Tank Gun-Undead
   rotate: false
-  xy: 1034, 115
+  xy: 1142, 108
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Archaeologist-Undead
   rotate: false
-  xy: 1084, 165
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Archaeologist-Undead
-  rotate: false
-  xy: 1084, 165
+  xy: 1200, 166
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archaeologist-Undead
   rotate: false
-  xy: 1084, 165
+  xy: 1200, 166
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Archaeologist-Undead
   rotate: false
-  xy: 1084, 165
+  xy: 1200, 166
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Archer-Undead
   rotate: false
-  xy: 1374, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Archer-Undead
-  rotate: false
-  xy: 1374, 223
+  xy: 1258, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Archer-Undead
   rotate: false
-  xy: 1374, 223
+  xy: 1258, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Archer-Undead
   rotate: false
-  xy: 1374, 223
+  xy: 1258, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Arms Merchant
   rotate: false
-  xy: 44, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Arms Merchant
-  rotate: false
-  xy: 44, 7
+  xy: 44, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Arms Merchant
   rotate: false
-  xy: 44, 7
+  xy: 44, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Arms Merchant
   rotate: false
-  xy: 44, 7
+  xy: 44, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Artillery-Undead
   rotate: false
-  xy: 1124, 165
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Artillery-Undead
-  rotate: false
-  xy: 1124, 165
+  xy: 1298, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Artillery-Undead
   rotate: false
-  xy: 1124, 165
+  xy: 1298, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Artillery-Undead
   rotate: false
-  xy: 1124, 165
+  xy: 1298, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bazooka-Undead
   rotate: false
-  xy: 1414, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Bazooka-Undead
-  rotate: false
-  xy: 1414, 223
+  xy: 84, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bazooka-Undead
   rotate: false
-  xy: 1414, 223
+  xy: 84, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Bazooka-Undead
   rotate: false
-  xy: 1414, 223
+  xy: 84, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Black Death
   rotate: false
-  xy: 84, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Black Death
-  rotate: false
-  xy: 84, 7
+  xy: 1338, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Black Death
   rotate: false
-  xy: 84, 7
+  xy: 1338, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Black Death
   rotate: false
-  xy: 84, 7
+  xy: 1338, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bone Dragon
   rotate: false
-  xy: 1164, 165
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Bone Dragon
-  rotate: false
-  xy: 1164, 165
+  xy: 124, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Bone Dragon
   rotate: false
-  xy: 1164, 165
+  xy: 124, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Bone Dragon
   rotate: false
-  xy: 1164, 165
+  xy: 124, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Caravel-Undead
   rotate: false
-  xy: 1454, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Caravel-Undead
-  rotate: false
-  xy: 1454, 223
+  xy: 1378, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Caravel-Undead
   rotate: false
-  xy: 1454, 223
+  xy: 1378, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Caravel-Undead
   rotate: false
-  xy: 1454, 223
+  xy: 1378, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cavalry-Undead
   rotate: false
-  xy: 124, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Cavalry-Undead
-  rotate: false
-  xy: 124, 7
+  xy: 164, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Cavalry-Undead
   rotate: false
-  xy: 124, 7
+  xy: 164, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Cavalry-Undead
   rotate: false
-  xy: 124, 7
+  xy: 164, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Chariot Archer-Undead
   rotate: false
-  xy: 1204, 165
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Chariot Archer-Undead
-  rotate: false
-  xy: 1204, 165
+  xy: 1418, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot Archer-Undead
   rotate: false
-  xy: 1204, 165
+  xy: 1418, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Chariot Archer-Undead
   rotate: false
-  xy: 1204, 165
+  xy: 1418, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Composite Bowman-Undead
   rotate: false
-  xy: 1494, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Composite Bowman-Undead
-  rotate: false
-  xy: 1494, 223
+  xy: 204, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Composite Bowman-Undead
   rotate: false
-  xy: 1494, 223
+  xy: 204, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Composite Bowman-Undead
   rotate: false
-  xy: 1494, 223
+  xy: 204, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Crossbowman-Undead
   rotate: false
-  xy: 164, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Crossbowman-Undead
-  rotate: false
-  xy: 164, 7
+  xy: 1458, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Crossbowman-Undead
   rotate: false
-  xy: 164, 7
+  xy: 1458, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Crossbowman-Undead
   rotate: false
-  xy: 164, 7
+  xy: 1458, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Frigate-Undead
   rotate: false
-  xy: 1244, 165
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Frigate-Undead
-  rotate: false
-  xy: 1244, 165
+  xy: 244, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Frigate-Undead
   rotate: false
-  xy: 1244, 165
+  xy: 244, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Frigate-Undead
   rotate: false
-  xy: 1244, 165
+  xy: 244, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Future Infantry-Undead
   rotate: false
-  xy: 1534, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Future Infantry-Undead
-  rotate: false
-  xy: 1534, 223
+  xy: 1498, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Future Infantry-Undead
   rotate: false
-  xy: 1534, 223
+  xy: 1498, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Future Infantry-Undead
   rotate: false
-  xy: 1534, 223
+  xy: 1498, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Galleass-Undead
   rotate: false
-  xy: 204, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Galleass-Undead
-  rotate: false
-  xy: 204, 7
+  xy: 284, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Galleass-Undead
   rotate: false
-  xy: 204, 7
+  xy: 284, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Galleass-Undead
   rotate: false
-  xy: 204, 7
+  xy: 284, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gatling Gun-Undead
   rotate: false
-  xy: 1284, 165
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Gatling Gun-Undead
-  rotate: false
-  xy: 1284, 165
+  xy: 1538, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gatling Gun-Undead
   rotate: false
-  xy: 1284, 165
+  xy: 1538, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Gatling Gun-Undead
   rotate: false
-  xy: 1284, 165
+  xy: 1538, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ghost
   rotate: false
-  xy: 1574, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Ghost
-  rotate: false
-  xy: 1574, 223
+  xy: 324, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Ghost
   rotate: false
-  xy: 1574, 223
+  xy: 324, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Ghost
   rotate: false
-  xy: 1574, 223
+  xy: 324, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Giant Death Robot-Undead
   rotate: false
-  xy: 244, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Giant Death Robot-Undead
-  rotate: false
-  xy: 244, 7
+  xy: 1578, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Giant Death Robot-Undead
   rotate: false
-  xy: 244, 7
+  xy: 1578, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Giant Death Robot-Undead
   rotate: false
-  xy: 244, 7
+  xy: 1578, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Gravedigger
   rotate: false
-  xy: 1324, 165
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Gravedigger
-  rotate: false
-  xy: 1324, 165
+  xy: 364, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Gravedigger
   rotate: false
-  xy: 1324, 165
+  xy: 364, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Gravedigger
   rotate: false
-  xy: 1324, 165
+  xy: 364, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Engineer-Undead
   rotate: false
-  xy: 284, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Great Engineer-Undead
-  rotate: false
-  xy: 284, 7
+  xy: 1618, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Engineer-Undead
   rotate: false
-  xy: 284, 7
+  xy: 1618, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Engineer-Undead
   rotate: false
-  xy: 284, 7
+  xy: 1618, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Musician-Undead
   rotate: false
-  xy: 1654, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Great Musician-Undead
-  rotate: false
-  xy: 1654, 223
+  xy: 404, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Musician-Undead
   rotate: false
-  xy: 1654, 223
+  xy: 404, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Musician-Undead
   rotate: false
-  xy: 1654, 223
+  xy: 404, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Prophet-Undead
   rotate: false
-  xy: 324, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Great Prophet-Undead
-  rotate: false
-  xy: 324, 7
+  xy: 1658, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Prophet-Undead
   rotate: false
-  xy: 324, 7
+  xy: 1658, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Prophet-Undead
   rotate: false
-  xy: 324, 7
+  xy: 1658, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great Scientist-Undead
   rotate: false
-  xy: 1694, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Great Scientist-Undead
-  rotate: false
-  xy: 1694, 223
+  xy: 444, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great Scientist-Undead
   rotate: false
-  xy: 1694, 223
+  xy: 444, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great Scientist-Undead
   rotate: false
-  xy: 1694, 223
+  xy: 444, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Great War Infantry-Undead
   rotate: false
-  xy: 364, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Great War Infantry-Undead
-  rotate: false
-  xy: 364, 7
+  xy: 1698, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Great War Infantry-Undead
   rotate: false
-  xy: 364, 7
+  xy: 1698, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Great War Infantry-Undead
   rotate: false
-  xy: 364, 7
+  xy: 1698, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Horseman-Undead
   rotate: false
-  xy: 1734, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Horseman-Undead
-  rotate: false
-  xy: 1734, 223
+  xy: 484, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Horseman-Undead
   rotate: false
-  xy: 1734, 223
+  xy: 484, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Horseman-Undead
   rotate: false
-  xy: 1734, 223
+  xy: 484, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Infantry-Undead
   rotate: false
-  xy: 404, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Infantry-Undead
-  rotate: false
-  xy: 404, 7
+  xy: 1738, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Infantry-Undead
   rotate: false
-  xy: 404, 7
+  xy: 1738, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Infantry-Undead
   rotate: false
-  xy: 404, 7
+  xy: 1738, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lancer-Undead
   rotate: false
-  xy: 1774, 222
-  size: 32, 29
-  orig: 32, 29
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Lancer-Undead
-  rotate: false
-  xy: 1774, 222
+  xy: 524, 7
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lancer-Undead
   rotate: false
-  xy: 1774, 222
+  xy: 524, 7
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Lancer-Undead
   rotate: false
-  xy: 1774, 222
+  xy: 524, 7
   size: 32, 29
   orig: 32, 29
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/LandUnit-Undead
   rotate: false
-  xy: 444, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/LandUnit-Undead
-  rotate: false
-  xy: 444, 7
+  xy: 1778, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/LandUnit-Undead
   rotate: false
-  xy: 444, 7
+  xy: 1778, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/LandUnit-Undead
   rotate: false
-  xy: 444, 7
+  xy: 1778, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Landship-Undead
   rotate: false
-  xy: 1814, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Landship-Undead
-  rotate: false
-  xy: 1814, 223
+  xy: 564, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Landship-Undead
   rotate: false
-  xy: 1814, 223
+  xy: 564, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Landship-Undead
   rotate: false
-  xy: 1814, 223
+  xy: 564, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lich King
   rotate: false
-  xy: 484, 4
-  size: 32, 31
-  orig: 32, 31
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Lich King
-  rotate: false
-  xy: 484, 4
+  xy: 1818, 221
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Lich King
   rotate: false
-  xy: 484, 4
+  xy: 1818, 221
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Lich King
   rotate: false
-  xy: 484, 4
+  xy: 1818, 221
   size: 32, 31
   orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Longswordsman-Undead
   rotate: false
-  xy: 1854, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Longswordsman-Undead
-  rotate: false
-  xy: 1854, 223
+  xy: 604, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Longswordsman-Undead
   rotate: false
-  xy: 1854, 223
+  xy: 604, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Longswordsman-Undead
   rotate: false
-  xy: 1854, 223
+  xy: 604, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Machine Gun-Undead
   rotate: false
-  xy: 524, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Machine Gun-Undead
-  rotate: false
-  xy: 524, 7
+  xy: 1858, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Machine Gun-Undead
   rotate: false
-  xy: 524, 7
+  xy: 1858, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Machine Gun-Undead
   rotate: false
-  xy: 524, 7
+  xy: 1858, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Marine-Undead
   rotate: false
-  xy: 1894, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Marine-Undead
-  rotate: false
-  xy: 1894, 223
+  xy: 644, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Marine-Undead
   rotate: false
-  xy: 1894, 223
+  xy: 644, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Marine-Undead
   rotate: false
-  xy: 1894, 223
+  xy: 644, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mechanized Infantry-Undead
   rotate: false
-  xy: 564, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Mechanized Infantry-Undead
-  rotate: false
-  xy: 564, 7
+  xy: 1898, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mechanized Infantry-Undead
   rotate: false
-  xy: 564, 7
+  xy: 1898, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Mechanized Infantry-Undead
   rotate: false
-  xy: 564, 7
+  xy: 1898, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Mobile SAM-Undead
   rotate: false
-  xy: 1934, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Mobile SAM-Undead
-  rotate: false
-  xy: 1934, 223
+  xy: 684, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Mobile SAM-Undead
   rotate: false
-  xy: 1934, 223
+  xy: 684, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Mobile SAM-Undead
   rotate: false
-  xy: 1934, 223
+  xy: 684, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Modern Armor-Undead
   rotate: false
-  xy: 604, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Modern Armor-Undead
-  rotate: false
-  xy: 604, 7
+  xy: 1938, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Modern Armor-Undead
   rotate: false
-  xy: 604, 7
+  xy: 1938, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Modern Armor-Undead
   rotate: false
-  xy: 604, 7
+  xy: 1938, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Necromancer
   rotate: false
-  xy: 1974, 223
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Necromancer
-  rotate: false
-  xy: 1974, 223
+  xy: 724, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Necromancer
   rotate: false
-  xy: 1974, 223
+  xy: 724, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Necromancer
   rotate: false
-  xy: 1974, 223
+  xy: 724, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Paratrooper-Undead
   rotate: false
-  xy: 644, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Paratrooper-Undead
-  rotate: false
-  xy: 644, 7
+  xy: 1978, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Paratrooper-Undead
   rotate: false
-  xy: 644, 7
+  xy: 1978, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Paratrooper-Undead
   rotate: false
-  xy: 644, 7
+  xy: 1978, 224
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Pikeman-Undead
   rotate: false
-  xy: 684, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Pikeman-Undead
-  rotate: false
-  xy: 684, 7
+  xy: 764, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Pikeman-Undead
   rotate: false
-  xy: 684, 7
+  xy: 764, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Pikeman-Undead
   rotate: false
-  xy: 684, 7
+  xy: 764, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Privateer-Undead
   rotate: false
-  xy: 724, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Privateer-Undead
-  rotate: false
-  xy: 724, 7
+  xy: 804, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Privateer-Undead
   rotate: false
-  xy: 724, 7
+  xy: 804, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Privateer-Undead
   rotate: false
-  xy: 724, 7
+  xy: 804, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rifleman-Undead
   rotate: false
-  xy: 764, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Rifleman-Undead
-  rotate: false
-  xy: 764, 7
+  xy: 844, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rifleman-Undead
   rotate: false
-  xy: 764, 7
+  xy: 844, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Rifleman-Undead
   rotate: false
-  xy: 764, 7
+  xy: 844, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rocket Artillery-Undead
   rotate: false
-  xy: 804, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Rocket Artillery-Undead
-  rotate: false
-  xy: 804, 7
+  xy: 884, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Rocket Artillery-Undead
   rotate: false
-  xy: 804, 7
+  xy: 884, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Rocket Artillery-Undead
   rotate: false
-  xy: 804, 7
+  xy: 884, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Spearman-Undead
   rotate: false
-  xy: 844, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Spearman-Undead
-  rotate: false
-  xy: 844, 7
+  xy: 924, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Spearman-Undead
   rotate: false
-  xy: 844, 7
+  xy: 924, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Spearman-Undead
   rotate: false
-  xy: 844, 7
+  xy: 924, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Swordsman-Undead
   rotate: false
-  xy: 884, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Swordsman-Undead
-  rotate: false
-  xy: 884, 7
+  xy: 964, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Swordsman-Undead
   rotate: false
-  xy: 884, 7
+  xy: 964, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Swordsman-Undead
   rotate: false
-  xy: 884, 7
+  xy: 964, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tank-Undead
   rotate: false
-  xy: 924, 7
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Tank-Undead
-  rotate: false
-  xy: 924, 7
+  xy: 1004, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Tank-Undead
   rotate: false
-  xy: 924, 7
+  xy: 1004, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Tank-Undead
   rotate: false
-  xy: 924, 7
+  xy: 1004, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trireme-Undead
   rotate: false
-  xy: 1034, 79
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Trireme-Undead
-  rotate: false
-  xy: 1034, 79
+  xy: 1044, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Trireme-Undead
   rotate: false
-  xy: 1034, 79
+  xy: 1044, 8
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Trireme-Undead
   rotate: false
-  xy: 1034, 79
+  xy: 1044, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Undead Warrior
+  rotate: false
+  xy: 1142, 72
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warrior-Undead
   rotate: false
-  xy: 1374, 187
+  xy: 1142, 72
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/FantasyHex/Units/Warrior-Undead
+TileSets/FantasyHex/Units/Undead Warrior
   rotate: false
-  xy: 1374, 187
+  xy: 1142, 72
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Warrior-Undead
   rotate: false
-  xy: 1374, 187
+  xy: 1142, 72
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Undead Warrior
+  rotate: false
+  xy: 1142, 72
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Warrior-Undead
   rotate: false
-  xy: 1374, 187
+  xy: 1142, 72
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/WaterUnit-Undead
   rotate: false
-  xy: 1414, 189
-  size: 32, 26
-  orig: 32, 26
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/WaterUnit-Undead
-  rotate: false
-  xy: 1414, 189
+  xy: 1200, 132
   size: 32, 26
   orig: 32, 26
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/WaterUnit-Undead
   rotate: false
-  xy: 1414, 189
+  xy: 1200, 132
   size: 32, 26
   orig: 32, 26
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/WaterUnit-Undead
   rotate: false
-  xy: 1414, 189
+  xy: 1200, 132
   size: 32, 26
   orig: 32, 26
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Work Boats-Undead
   rotate: false
-  xy: 1454, 187
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Work Boats-Undead
-  rotate: false
-  xy: 1454, 187
+  xy: 1258, 188
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Work Boats-Undead
   rotate: false
-  xy: 1454, 187
+  xy: 1258, 188
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Work Boats-Undead
   rotate: false
-  xy: 1454, 187
+  xy: 1258, 188
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Worker-Undead
   rotate: false
-  xy: 1494, 187
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Units/Worker-Undead
-  rotate: false
-  xy: 1494, 187
+  xy: 1298, 188
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Worker-Undead
   rotate: false
-  xy: 1494, 187
+  xy: 1298, 188
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Worker-Undead
   rotate: false
-  xy: 1494, 187
+  xy: 1298, 188
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/FantasyHex/Tiles/Abyss
-  rotate: false
-  xy: 976, 52
-  size: 32, 33
-  orig: 32, 33
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Tiles/Abyss
   rotate: false
-  xy: 976, 52
+  xy: 1084, 45
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Abyss
   rotate: false
-  xy: 976, 52
-  size: 32, 33
-  orig: 32, 33
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/FantasyHex/Tiles/Graveyard
-  rotate: false
-  xy: 1614, 218
+  xy: 1084, 45
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Graveyard
   rotate: false
-  xy: 1614, 218
+  xy: 1084, 4
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Graveyard
   rotate: false
-  xy: 1614, 218
+  xy: 1084, 4
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 UnitIcons/Angel of Death
   rotate: false
-  xy: 4, 43
+  xy: 4, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Arms Merchant
   rotate: false
-  xy: 112, 151
+  xy: 112, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Black Death
   rotate: false
-  xy: 112, 43
+  xy: 112, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bone Dragon
   rotate: false
-  xy: 220, 151
+  xy: 220, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ghost
   rotate: false
-  xy: 328, 151
+  xy: 328, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Gravedigger
   rotate: false
-  xy: 328, 43
+  xy: 328, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lich King
   rotate: false
-  xy: 544, 151
+  xy: 544, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Necromancer
   rotate: false
-  xy: 868, 151
+  xy: 868, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Undead Warrior
+  rotate: false
+  xy: 976, 44
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Breach the Walls
   rotate: false
-  xy: 976, 93
+  xy: 1084, 202
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Eat the Living
   rotate: false
-  xy: 1084, 201
+  xy: 1084, 144
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Hard to Kill Twice
   rotate: false
-  xy: 1142, 201
+  xy: 1142, 202
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Sickening Plague
   rotate: false
-  xy: 1200, 201
+  xy: 1084, 86
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Summon the Lich King
   rotate: false
-  xy: 1258, 201
+  xy: 1142, 144
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Undead
   rotate: false
-  xy: 1316, 201
+  xy: 1200, 202
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
