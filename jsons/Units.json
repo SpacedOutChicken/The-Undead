@@ -10,6 +10,7 @@
 	{
 		"name": "Undead Warrior",
 		"unitType": "Sword",
+		"uniqueTo": "The Undead",
 		"replaces": "Settler",
 		"movement": 2,
 		"strength": 8,
