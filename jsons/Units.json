@@ -4,6 +4,7 @@
 		"uniqueTo": "The Undead",
 		"unitType": "Civilian",
 		"movement": 2,
+		"obsoleteTech": "Agriculture",
 		"uniques": ["Founds a new city",
 			"Unbuildable"]
 	},
@@ -15,6 +16,7 @@
 		"movement": 2,
 		"strength": 8,
 		"upgradesTo": "Swordsman",
+		"obsoleteTech": "Metal Casting",
 		"uniques" : ["May upgrade to [Spearman] through ruins-like effects", "Unbuildable"],
 		"attackSound": "nonmetalhit"
 	},
