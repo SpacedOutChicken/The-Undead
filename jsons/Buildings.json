@@ -7,9 +7,9 @@
         "happiness": 5,
         "culture": 1,
         "isNationalWonder": true,
-		"uniques": ["Requires a [Colosseum] in all cities",
+		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
-			"All newly-trained [non-air] units [in this city] receive the [Rejuvenation] promotion"],
+			"All newly-trained [non-[Air]] units [in this city] receive the [Rejuvenation] promotion"],
         "requiredTech": "Horseback Riding"
     },
 	{
@@ -19,9 +19,9 @@
 		"cost": 125,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Monument] in all cities",
+		"uniques": ["Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>",
 			"[-25]% Gold cost of acquiring tiles [in all cities]",
-			"All newly-trained [non-air] units [in this city] receive the [Hard to Kill Twice] promotion",
+			"All newly-trained [non-[Air]] units [in this city] receive the [Hard to Kill Twice] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Philosophy"
 	},
@@ -32,8 +32,8 @@
 		"cost": 125,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Requires a [Barracks] in all cities",
-			"All newly-trained [non-air] units [in this city] receive the [Sickening Plague] promotion",
+		"uniques": ["Only available <if [Barracks] is constructed in all [non-[Puppeted]] cities>",
+			"All newly-trained [non-[Air]] units [in this city] receive the [Sickening Plague] promotion",
 			"Cost increases by [30] per owned city"],
 		"requiredTech": "Iron Working"
 	},
