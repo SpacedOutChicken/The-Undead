@@ -30,7 +30,10 @@
 		"outerColor": [190,190,190],
 		"innerColor": [0,0,0],
 		"uniqueName": "The Great Infectious Horde",
-		"uniques": ["[-50]% Unhappiness from [Population] [in all cities]",
+		"uniques": [
+			"Comment [Unable to gain Settlers or found more than one city]",
+			"Free [Gravedigger] appears",
+			"[-50]% Unhappiness from [Population] [in all cities]",
 			"[-33]% [Culture] [in all cities]",
 			"[-33]% [Science] [in all cities]",
 			"[-33]% growth [in all cities]",
