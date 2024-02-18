@@ -2,11 +2,20 @@
 	{
 		"name": "Gravedigger",
 		"uniqueTo": "The Undead",
-		"replaces": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Founds a new city",
 			"Unbuildable"]
+	},
+	{
+		"name": "Undead Warrior",
+		"unitType": "Sword",
+		"replaces": "Settler",
+		"movement": 2,
+		"strength": 8,
+		"upgradesTo": "Swordsman",
+		"uniques" : ["May upgrade to [Spearman] through ruins-like effects"],
+		"attackSound": "nonmetalhit"
 	},
 	{
 		"name": "Ghost",
