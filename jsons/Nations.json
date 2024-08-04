@@ -51,6 +51,7 @@
 			"[+15]% Strength <for [All] units> <when defending> <when fighting in [Graveyard] tiles>"],
 		"cities": ["Ground Zero", "Site B", "Site C", "Site D", "Site E", "Site F", "Site G", "Site H",
 			"Site I", "Site J", "Site K", "Site L", "Site M", "Site N", "Site O", "Site P", "Site Q", "Site R",
-			"Site S", "Site T", "Site U", "Site V", "Site W", "Site X", "Site Y", "Site Z"]
+			"Site S", "Site T", "Site U", "Site V", "Site W", "Site X", "Site Y", "Site Z"],
+		"spyNames": ["Walker", "Geek", "Lurker", "Fleshy", "Bony", "Biter", "Creeper", "Roamer", "Rotter", "Ripper"]
 	}
 ]
