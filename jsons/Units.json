@@ -36,7 +36,7 @@
 			"Can see invisible [Land] units",
 			"May travel on Water tiles without embarking",
 			"[+1] Sight",
-			"May withdraw before melee ([100]%)",
+			"Withdraws before melee combat <with [100]% chance>",
 			"Cannot attack"]
 	},
 	{
