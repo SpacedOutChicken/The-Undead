@@ -99,6 +99,7 @@
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"Can instantly construct a [Customs house] improvement <by consuming this unit>",
 			"Great Person - [Gold]",
+			"Is part of Great Person group [Merchant]",
 			"Unbuildable",
 			"Uncapturable"],
 		"movement": 2
@@ -111,6 +112,7 @@
 		"uniques": ["Empire enters a [6]-turn Golden Age <by consuming this unit>",
 			"Can instantly construct a [Abyss] improvement <by consuming this unit>",
 			"Great Person - [Culture]",
+			"Is part of Great Person group [Artist]",
 			"Unbuildable",
 			"Uncapturable"],
 		"movement": 2
